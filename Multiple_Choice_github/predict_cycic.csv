@@ -1,0 +1,907 @@
+run_id,predict_answer,correct_answer,question,answer_option0,answer_option1,answer_option2,answer_option3,answer_option4
+189330,1,1,Which of these isn't usually smaller than any of the others?,french fry,fish tank,inhaler canister,adult shrew,adult field mouse
+260206,4,4,"Cherry needs dry vermouth, rum, and beans. She already has dry vermouth and rum. Where should she go?",hardware store,bookstore,sporting goods store,lawn and garden store,farmer's market
+264141,1,1,Duke bet Ginger that no American state is European country. Ginger is a drum player. Duke is a migrant farm worker. Which of them won the bet?,drummer,migrant farm worker,soldier,teacher,cowboy
+263273,2,2,Ginger bet Duke that no European anchovy is a Beagle. Ginger is a singer. Duke is a doorman. Which of them won the bet?,doorman,astronomer,singer,dairy worker,ornithologist
+320358,3,3,Daisy is sharing. Charity is expressing skepticism. Charity is thanking. Which of them is most likely feeling camaraderie?,Rob,Charity,Joy,Daisy,Cliff
+320829,3,3,Joy is religious activity. Charity is hyperventilating. Charity is quaking. Which of them is most likely feeling piousness?,Rob,Daisy,Charity,Joy,Cliff
+164864,2,2,Which of the following is 3 decades after 1:15 a.m. on day number 6 in June 1944?,"10:15 p.m. on June 5, 1944","1:18 a.m. on June 6, 1944","1:15 a.m. on June 6, 1974","1:15 a.m. on June 6, 1644","1:12 a.m. on June 6, 1944"
+301055,1,1,Cliff glorified Will. Charity excoriated Will. Who made Will feel proud?,Charity,Cliff,Rob,Daisy,Joy
+214979,2,2,Rosalyn is coming to your house for dinner. She is an adherent of the vegetarian diet. What should you not serve her?,seltzer water,groom's cake,crab cake,americano,biscuit
+328356,3,3,Which of the following is usually the slowest?,F-16 fighting falcon,go cart,Porsche 911 Series,Honda Accord,hot-air balloon
+297039,3,2,"Only males who like apricots are allowed on the baseball team. Only females who like eggplants are allowed on the basketball team. Daisy's foster mom, Billie, likes all mauve fruits. Which team could Billie join?",the soccer team,the hockey team,the basketball team,the baseball team,the rugby team
+300621,3,3,Joy advised Will. Daisy stole Will. Who made Will feel angry?,Rob,Charity,Joy,Daisy,Cliff
+260255,3,3,"Cherry needs Nintendo 64s, peaches, and young boys’ sandals. She already has Nintendo 64s and peaches. Where should she go?",cheese shop,drugstore,cosmetics and beauty supply store,shoe store,grocery store
+294595,4,4,April missed a call at noon. She returned it 6 hours later. When did she return the call?,8 p.m.,10 a.m.,3 p.m.,8 a.m.,6 p.m.
+336498,3,3,"In Strange Town, you're only allowed to play a card game in the financial district, you're only allowed to play musical instruments in the campground, and you're only allowed to play board games in the theater district. Joy is playing bingo whose actors include the Internet. Where is Joy?",the shipyard,the botanical garden,the financial district,the physical universe,the campground
+259979,1,1,"Cherry needs Nike clothing, men's boots, and Tylenol. She already has Tylenol and men's boots. Where should she go?",fruits and vegetables market,shoe store,sporting goods store,liquor store,furniture store
+295797,3,3,April missed a call at 1 a.m.. She returned it 7 hours later. When did she return the call?,7 a.m.,2 p.m.,4 p.m.,8 a.m.,7 p.m.
+313319,1,1,Joy insulted Cliff. What was the action?,Cliff,insulting,Joy,belittling,aiding
+319677,4,4,Joy is flirting. Rob is expressing humanity. Charity is cursing. Which of them is most likely feeling attraction toward someone?,Daisy,Cliff,Charity,Rob,Joy
+319521,1,1,Charity is braining. Charity is comforting. Daisy is splashing. Which of them is most likely feeling humour?,Joy,Daisy,Rob,Charity,Cliff
+319863,1,4,"In Brown Town, every butcher shop is yellow, every package store is midnight blue, and every hardware store is red. Amber needs a photo frame. What color store could she get it at?",brown,light yellow,green,black violet,red
+329791,3,3,Which of these things is typically the fastest?,cruise ship,riding mower,tractor,dump truck,golf cart
+320136,0,0,Rob is quaking. Daisy is unlaxing. Charity is idly hanging about. Which of them is most likely feeling panic?,Rob,Daisy,Charity,Joy,Cliff
+259709,4,4,"Cherry needs blackberries, ski goggles, and wing tip shoes. She already has ski goggles and blackberries. Where should she go?",grocery store,confectionery,farmer's market,toy store,shoe store
+259868,0,0,"Cherry needs Wii, magnolias, and potting soil. She already has potting soil and magnolias. Where should she go?",appliance store,shoe store,liquor store,lawn and garden store,bookstore
+319291,0,0,Rob is giving up. Daisy is taking a victory lap. Rob is expressing resolve. Which of them is most likely feeling feeling of celebration?,Daisy,Charity,Cliff,Joy,Rob
+300402,4,4,Joy comforted Will. Cliff criticised Will. Who made Will feel angry?,Daisy,Charity,Joy,Rob,Cliff
+190163,2,2,Pick the thing which is typically larger than all the others.,side-by-side refrigerator-freezer,built-in stove,boiler room,cockpit,dresser
+319508,2,2,Daisy is looking uncertain. Charity is classical Indian dancing. Rob is spitting out. Which of them is most likely feeling entertainment?,Cliff,Joy,Charity,Daisy,Rob
+329218,4,4,Pick the one which isn't usually slower than any of the others.,riding mower,skeleton,tractor,golf cart,cat
+294562,2,2,April missed a call at 3 a.m.. She returned it 4 hours later. When did she return the call?,noon,10 p.m.,7 a.m.,5 a.m.,11 a.m.
+301334,0,0,Cliff took care of Will. Charity snubbed Will. Who made Will feel grateful?,Cliff,Joy,Charity,Rob,Daisy
+294852,1,1,April missed a call at 11 p.m.. She returned it 5 hours later. When did she return the call?,2 p.m.,4 a.m.,10 a.m.,6 a.m.,7 a.m.
+319489,0,0,Daisy is looking touched. Cliff is creating a conceptual work. Daisy is expressing insecurity. Which of them is most likely feeling inspiration?,Cliff,Joy,Rob,Charity,Daisy
+319386,3,3,Cliff is gritting one’s teeth. Joy is pointing. Charity is comforting. Which of them is most likely feeling congeniality?,Joy,Rob,Cliff,Charity,Daisy
+297197,3,0,"Only males who like miracle fruits are allowed on the baseball team. Only females who like bilberries are allowed on the hockey team. Daisy's grandson, Billie, likes all pink fruits. Which team could Billie join?",the baseball team,the basketball team,the rugby team,the hockey team,the soccer team
+325095,2,2,"In U.S. summer, Daisy visits the theater district every day. In U.S. autumn, Daisy visits the graveyard every day. Where will Daisy go on July 22?",the forest,the park,the theater district,the graveyard,the botanical garden
+248278,4,0,Yuhan asked Dana how long getting hitched takes. What did he tell her?,between 0.5 and 2 hours,between 1 and 10 years,between 1 and 10 days,48 hours,a few seconds
+262535,0,0,"In Dill town, you can only buy grain at Cherry's Store, and you can only buy office products at Carrot's Store. In a strange coincidence, any time Basil is at Cherry's Store, Lily is at Pepper's Store, and any time he is at Carrot's Store, she is at Cherry's Store. Basil is buying corn kernels. Where is Lily?",Pepper's Store,Rose's Store,Carrot's Store,Rosemary's Store,Cherry's Store
+190219,2,2,Which of the following isn't usually bigger than any of the others?,bed,built-in stove,clothes dryer,refrigerated display case,grave
+319361,0,0,Daisy is giving the thumbs-down sign. Daisy is boasting. Cliff is relaxing a muscle. Which of them is most likely feeling relief?,Cliff,Charity,Daisy,Joy,Rob
+189987,0,1,Pick the one which is usually larger than the others.,whisker,pencil,grain of rice,string,sand particle
+320497,4,4,Rob is pacing. Daisy is saluting. Charity is waving. Which of them is most likely feeling impatience?,Joy,Daisy,Cliff,Charity,Rob
+263574,4,4,Ginger bet Duke that no tiger is a rodent. Ginger is a brewer. Duke is a troop. Which of them won the bet?,soldier,psychoanalyst,architect,bartender,brewer
+318710,4,4,Daisy was lambasted by Charity. Who had the action done to them?,Joy,Charity,Cliff,lambasting,Daisy
+294232,3,0,April received a letter in April. She answered it 6 months later. When did she answer the letter?,October,November,March,September,May
+300531,0,0,Charity deprecated Will. Joy cheered Will. Who made Will feel angry?,Charity,Daisy,Cliff,Joy,Rob
+159819,2,2,Which of the following is 4 years after 5:11 a.m. on day number 3 in September 1926?,"9:11 a.m. on September 3, 1930","5:07 a.m. on September 3, 1926","5:11 a.m. on September 3, 1930","5:11 a.m. on September 3, 1526","5:11 a.m. on September 3, 1922"
+294499,3,3,April missed a call at 3 p.m.. She returned it 2 hours later. When did she return the call?,4 a.m.,8 p.m.,4 p.m.,5 p.m.,11 a.m.
+336138,4,3,"In Strange Town, you're only allowed to engage in politics in the campground, you're only allowed to attend entertainment events in the botanical garden, and you're only allowed to play cards in the park. Joy is playing Whist. Where is Joy?",the town square,the campground,the theater district,the park,the botanical garden
+181924,0,0,Which of the following is 7 days after 2:16 a.m. on day number 1 in March 2001?,"2:16 a.m. on March 8, 2001","7:16 p.m. on February 28, 2001","2:16 a.m. on March 1, 1994","9:16 a.m. on March 1, 2008","2:16 a.m. on October 1, 2001"
+320988,4,4,"In Blue Town, every office supply store is gold, every art supply store is dull blue violet, and every hardware store is olive drab. Goldie needs a toner cartridge. What color store could she get it at?",bluish violet,dark olive,green,purple,light gold
+320706,4,3,Charity is hyperventilating. Daisy is saluting. Cliff is speaking quietly. Which of them is most likely feeling hospitality?,Cliff,Joy,Rob,Daisy,Charity
+160664,2,2,"Which of the following is 6 days after 11:09 p.m. on September 7, 1954?","11:09 p.m. on September 7, 1894","11:03 p.m. on September 7, 1954","11:09 p.m. on September 13, 1954","11:09 p.m. on March 7, 1955","11:09 p.m. on March 7, 1954"
+162063,4,4,"Which of the following is 10 minutes after 11:09 p.m. on September 7, 1954?","11:09 p.m. on September 7, 1944","11:09 p.m. on September 17, 1954","11:09 p.m. on September 7, 954","11:09 p.m. on August 28, 1944","11:19 p.m. on September 7, 1954"
+336013,3,4,"In Strange Town, you're only allowed to play board games in the town square, you're only allowed to play musical instruments in the graveyard, and you're only allowed to play a card game in the forest. Daisy is playing checkers. Where is Daisy?",the campground,the botanical garden,the forest,the graveyard,the town square
+260644,4,4,"In Dill town, you can only buy flesh at Pepper's Store, and you can only buy blooms at Carrot's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Carrot's Store, and any time he is at Carrot's Store, she is at Cherry's Store. Basil is buying spare ribs. Where is Lily?",Rosemary's Store,Cherry's Store,Pepper's Store,Rose's Store,Carrot's Store
+328395,4,3,Which of the following is typically the slowest?,bullet train,steam locomotive,F-16 fighting falcon,jackal,go cart
+297166,2,2,"Only males who like lychees are allowed on the soccer team. Only females who like Jazz apples are allowed on the basketball team. Daisy's half brother, Billie, likes all pink fruits. Which team could Billie join?",the basketball team,the hockey team,the soccer team,the rugby team,the baseball team
+295997,3,3,April missed a call at 10 p.m.. She returned it 11 hours later. When did she return the call?,11 p.m.,2 p.m.,4 p.m.,9 a.m.,5 p.m.
+162947,3,3,Which of the following is 7 days after 0:55 a.m. on day number 3 in February 1959?,"5:55 p.m. on February 2, 1959","0:55 a.m. on January 27, 1952","7:55 a.m. on February 3, 1966","0:55 a.m. on February 10, 1959","0:55 a.m. on February 3, 1952"
+189840,2,2,Which of these things is typically larger than all the others?,eating table,grandfather clock,three-car garage,china cabinet,horse
+295948,2,2,April missed a call at 5 p.m.. She returned it 3 hours later. When did she return the call?,3 a.m.,4 p.m.,8 p.m.,4 a.m.,11 p.m.
+262100,3,3,"In Dill town, you can only buy fruit at Rose's Store, and you can only buy flowers at Carrot's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Cherry's Store, and any time he is at Carrot's Store, she is at Rosemary's Store. Basil is buying macadamia nuts. Where is Lily?",Rose's Store,Carrot's Store,Rosemary's Store,Cherry's Store,Pepper's Store
+295521,2,2,April missed a call at 8 a.m.. She returned it 12 hours later. When did she return the call?,7 p.m.,2 a.m.,8 p.m.,3 p.m.,5 p.m.
+248151,4,4,How long does it typically take for a person to kick an object?,24 hours,10–120 s,between a few seconds and a few minutes,between 28 and 31 days,a few seconds
+143548,4,4,1 a.m. always precedes ______.,Thursday,3 p.m.,Tuesday,June,2 a.m.
+263836,4,1,Duke bet Ginger that no lamp is an electrical device. Ginger is a lead guitarist. Duke is a pipefitter. Which of them won the bet?,cosmetic surgeon,lead guitarist,appraiser,secretary,plumber
+329573,1,1,Pick the one which is typically slowest.,steam locomotive,Segway,B-52 bomber,Formula 1 race car,Porsche 911 Series
+259866,3,3,"Cherry needs direct view tv sets, gumdrops, and gas ranges. She already has gumdrops and gas ranges. Where should she go?",cheese shop,toy store,art supply store,appliance store,butcher shop
+300677,2,0,Cliff lauded Will. Charity shamed Will. Who made Will feel ashamed?,Charity,Daisy,Cliff,Joy,Rob
+263287,3,3,Duke bet Ginger that no bean curd is a butterfly. Ginger is a mover. Duke is a lifeguard. Which of them won the bet?,cowboy,mover,dairy worker,lifeguard,ornithologist
+295617,3,4,April missed a call at 5 a.m.. She returned it 10 hours later. When did she return the call?,noon,7 a.m.,5 a.m.,2 p.m.,3 p.m.
+214951,3,3,What is forbidden by a vegetarian diet?,Pepsi,maltose,Seldane,carnitas,Swiss cheese
+295980,0,3,April missed a call at 10 p.m.. She returned it 6 hours later. When did she return the call?,3 a.m.,10 a.m.,12 a.m.,4 a.m.,11 p.m.
+260018,0,0,"Cherry needs gas grill, cork boards, and Irish whiskey. She already has cork boards and Irish whiskey. Where should she go?",appliance store,office supply store,liquor store,furniture store,bait and tackle shop
+300835,1,2,Cliff consoled Will. Joy criticised Will. Who made Will feel angry?,Daisy,Cliff,Joy,Rob,Charity
+260333,2,2,"In Dill town, you can only buy flesh at Rose's Store, and you can only buy office products at Pepper's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Rose's Store, and any time he is at Pepper's Store, she is at Rosemary's Store. Basil is buying tuna fish. Where is Lily?",Pepper's Store,Carrot's Store,Rose's Store,Cherry's Store,Rosemary's Store
+336291,4,4,"In Strange Town, you're only allowed to play musical instruments in the financial district, you're only allowed to engage in politics in the botanical garden, and you're only allowed to play a team sport in the park. Charity is playing professional soccer. Where is Charity?",the shipyard,the park,the forest,the financial district,the physical universe
+336040,1,1,"In Strange Town, you're only allowed to play board games in the financial district, you're only allowed to attend entertainment events in the botanical garden, and you're only allowed to play musical instruments in the campground. Melody is attending ballets. Where is Melody?",the town square,the botanical garden,the theater district,the financial district,the campground
+313427,1,1,Joy insulted Charity. Who performed the action?,Daisy,Joy,Charity,insulting,Cliff
+143549,4,2,4 p.m. comes just before which of the following?,evening,9 p.m.,5 p.m.,Saturday,8 p.m.
+300433,1,1,Cliff aided Will. Charity deprecated Will. Who made Will feel embarrassed?,Rob,Charity,Daisy,Cliff,Joy
+320968,1,1,"In Purple Town, every furniture shop is gray, every office supply shop is yellow white, and every bakery is bisque. Tawny needs a typewriter. What color store could she get it at?",brown,yellowish white,yellow,bisque,grey
+248009,0,0,Nimra asked Rashed how long performing pop music takes. What did he tell her?,a few hours,6 months,1 second,12 months,24 hours
+329583,0,4,Pick the thing which is usually the fastest.,dump truck,Segway,personal watercraft,tank,dirt bike
+290216,3,3,What typically lasts tens of minutes?,October 28th,March 30th,June nineteenth,caring for,Febuary thirteenth
+297168,1,1,"Only males who like ripe mangos are allowed on the basketball team. Only females who like McIntosh apples are allowed on the baseball team. Daisy's father in law, Billie, likes all realgar fruits. Which team could Billie join?",the soccer team,the basketball team,the rugby team,the baseball team,the hockey team
+263791,2,2,Ginger bet Duke that no Orinoco goose is a single-family residence. Ginger is a real estate agent. Duke is a lead guitarist. Which of them won the bet?,lead guitarist,retail sales clerk,real estate agent,hydrocarbon production employee,farm worker
+320540,2,2,Rob is holding one’s breath. Charity is pondering. Charity is relaxing a muscle. Which of them is most likely feeling marvel?,Charity,Joy,Rob,Cliff,Daisy
+319742,2,2,Daisy is expressing defeat. Rob is failing to acknowledge a debt. Charity is speaking clearly. Which of them is most likely feeling self-confidence?,Rob,Daisy,Charity,Cliff,Joy
+262137,3,4,"In Dill town, you can only buy office products at Cherry's Store, and you can only buy herbs at Rosemary's Store. In a strange coincidence, any time Basil is at Cherry's Store, Lily is at Carrot's Store, and any time he is at Rosemary's Store, she is at Rose's Store. Basil is buying Liquid Paper DryLine Correction Tape (refill). Where is Lily?",Pepper's Store,Cherry's Store,Rosemary's Store,Rose's Store,Carrot's Store
+263149,4,4,Ginger bet Duke that no Florida stone crab is an excavation pit. Ginger is a banker. Duke is an appraiser. Which of them won the bet?,short-order cook,plumber,appraiser,Prime Minister,banker
+263322,0,0,Duke bet Ginger that no angel shark is a lightly stormy area. Ginger is an ornithologist. Duke is a fast food cook. Which of them won the bet?,fast-food cook,retail sales clerk,cosmetic surgeon,ornithologist,cowpoke
+300566,3,3,Rob mocked Will. Cliff seconded Will. Who made Will feel happy?,Joy,Daisy,Rob,Cliff,Charity
+320745,1,1,Rob is expressing care. Rob is jabbing. Cliff is jazz dancing. Which of them is most likely feeling fun?,Daisy,Cliff,Joy,Rob,Charity
+320011,4,4,Charity is expressing satisfaction. Rob is avoiding participation in social activities. Daisy is making a puzzled face. Which of them is most likely feeling surprise?,Charity,Cliff,Joy,Rob,Daisy
+320854,3,1,"In Yellow Town, every fish market is dark blue green, every farmer's market is reddish blue, and every sweet shop is deep cerulean blue. Violet needs spinach. What color store could she get it at?",dark hunter green,grayish blue violet,red thing,deep cerulean blue,brown
+263119,1,1,Duke bet Ginger that no airport is a great spider crab. Ginger is a barkeeper. Duke is a U.S. Navy seal. Which of them won the bet?,hydrocarbon production employee,U.S. Navy seal,bartender,computer programmer,firefighter
+261975,3,3,"In Dill town, you can only buy blossoms at Rose's Store, and you can only buy office products at Rosemary's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Cherry's Store, and any time he is at Rosemary's Store, she is at Rose's Store. Basil is buying dandelion flowers that are anatomical parts of some man discussing that is carrying out of creating. Where is Lily?",Carrot's Store,Pepper's Store,Rose's Store,Cherry's Store,Rosemary's Store
+320698,2,0,Rob is screaming. Charity is expressing feeling offended. Cliff is heaving. Which of them is most likely feeling anger?,Charity,Daisy,Rob,Joy,Cliff
+319946,2,2,"In Red Town, every bookstore is copper, every farmer's market is yellow red, and every confectionery is white. Violet needs a bean. What color store could she get it at?",copper,white,yellow red,orange,green
+266070,0,2,How many knee joints do bees have?,1,3,6,9,2
+189761,1,1,Which of these things is typically the tiniest?,sand particle,succinyl CoA,whole grain,whisker,string
+163776,3,3,"Which of the following is 10 months after 4:21 a.m. on December 26, 1991?","4:21 a.m. on December 26, 2091","4:21 a.m. on January 5, 1992","2:21 p.m. on December 26, 2001","4:21 a.m. on October 26, 1992","4:21 a.m. on December 26, 991"
+320290,0,0,Charity is shaking a fist. Daisy is expressing good will. Daisy is expressing a feeling of obligatedness. Which of them is most likely feeling outrage?,Charity,Rob,Cliff,Daisy,Joy
+319285,2,2,Daisy is expressing delight. Daisy is expressing regret. Joy is bodily recoiling. Which of them is most likely feeling repulsion?,Daisy,Cliff,Joy,Rob,Charity
+297001,2,2,"Only females who like plums are allowed on the hockey team. Only males who like honeydews are allowed on the soccer team. Daisy's grandson, Billie, likes all citron fruits. Which team could Billie join?",the rugby team,the basketball team,the soccer team,the baseball team,the hockey team
+190248,3,3,Which of the following is typically the tiniest?,house,school gymnasium,factory building,open kitchen,home bedroom
+313389,0,0,Rob was maligned by Daisy. Who performed the action?,Daisy,Charity,Rob,maligning,Joy
+295861,1,1,April missed a call at 7 a.m.. She returned it 11 hours later. When did she return the call?,9 a.m.,6 p.m.,3 p.m.,12 a.m.,7 p.m.
+329444,3,3,Which of these things is usually the fastest?,steam locomotive,Formula 1 race car,bullet train,B-52 bomber,diesel locomotive
+325332,4,1,"In U.S. spring, Charity visits the botanical garden every day. In U.S. summer, Charity visits the park every day. Where will Charity go on July 6?",the shipyard,the park,the financial district,the forest,the botanical garden
+319351,1,4,Cliff is fidgeting. Joy is breakdancing. Daisy is taking first steps. Which of them is most likely feeling willingness?,Charity,Cliff,Joy,Rob,Daisy
+295651,2,2,April missed a call at 3 p.m.. She returned it 7 hours later. When did she return the call?,1 p.m.,noon,10 p.m.,4 a.m.,7 a.m.
+296251,0,0,April missed a call at 5 a.m.. She returned it 6 hours later. When did she return the call?,11 a.m.,9 a.m.,4 a.m.,3 p.m.,6 a.m.
+215005,0,2,It's too bad Bobby served ______. Everybody at the party follows the vegetarian diet program.,aragonite,pho,pepperoni,coffee cherry,pastry
+261231,4,1,"In Dill town, you can only buy cereal grains at Rose's Store, and you can only buy blooms at Carrot's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Rose's Store, and any time he is at Carrot's Store, she is at Cherry's Store. Basil is buying phlox flowers. Where is Lily?",Rosemary's Store,Cherry's Store,Pepper's Store,Carrot's Store,Rose's Store
+264201,0,0,"A person born on March 15, 2003 would most likely be a ______ on day number 17 in January 2069.",middle aged to old person,preschool-age child,not yet born,thirtysomething,teenager
+313272,0,0,Charity maligned Cliff. What was the action?,maligning,Cliff,snubbing,Charity,cheering
+182297,3,1,"Which of the following is 9 minutes after 8:34 p.m. on May 11, 2001?","5:34 a.m. on May 12, 2001","8:43 p.m. on May 11, 2001","8:34 p.m. on February 11, 2002","8:34 p.m. on May 2, 2001","11:34 a.m. on May 11, 2001"
+143963,3,3,2 a.m. comes after ______.,evening,June,November,1 a.m.,7 p.m.
+328951,3,3,Which of these would usually be slowest?,Porsche 911 Series,B-52 bomber,personal watercraft,Snow leopard,F-16 fighting falcon
+214713,1,1,No ______ are consumed by people who follow a vegan diet program.,physalis,curds,bean pods,lychees,watermelons
+259431,2,0,"Cherry needs zucchinis, electrical household appliances that are not a consumer electronic device, and desks. She already has desks and electrical household appliances that are not a consumer electronic device. Where should she go?",fruits and vegetables market,office supply store,cheese shop,furniture store,bakery
+335956,3,3,"In Strange Town, you're only allowed to attend entertainment events in the town square, you're only allowed to engage in politics in the shipyard, and you're only allowed to play board games in the theater district. Cliff is ratifying. Where is Cliff?",the theater district,the town square,the graveyard,the shipyard,the botanical garden
+319684,1,0,Charity is looking downward. Joy is expressing joy. Cliff is covering one’s face. Which of them is most likely feeling solemnity?,Charity,Cliff,Daisy,Joy,Rob
+248043,3,3,Wedding events in which outdoors plays a location role typically last ______.,between 5 and 25 minutes,1 second,between 5 and 120 minutes,a few hours,at least 10 years
+263260,0,0,Ginger bet Duke that no road system is a Pileated woodpecker. Ginger is an accountant. Duke is a pediatrician. Which of them won the bet?,accountant,author,psychoanalyst,actor,pediatrician
+319509,0,2,Joy is chortling. Rob is booing. Daisy is directing emotion toward someone or something. Which of them is most likely feeling distaste?,Joy,Charity,Rob,Daisy,Cliff
+297064,1,1,"Only males who like mulberries are allowed on the soccer team. Only females who like cantaloupes are allowed on the baseball team. Daisy's brother, Billie, likes all purple fruits. Which team could Billie join?",the hockey team,the soccer team,the baseball team,the basketball team,the rugby team
+159383,1,1,"Which of the following is 1 month after 7:33 p.m. on August 21, 1983?","7:33 p.m. on August 21, 2083","7:33 p.m. on September 21, 1983","7:33 p.m. on August 21, 1993","8:33 p.m. on August 21, 1983","7:32 p.m. on August 21, 1983"
+264167,2,2,Duke bet Ginger that no fossa is whey. Ginger is an architect. Duke is a banker. Which of them won the bet?,firefighter,architect,banker,soldier,bartender
+190146,4,4,"Of these things, pick the one which isn't usually smaller than any of the others.",disposable cigarette lighter,petri dish,adult shrew,adult field mouse,crystalware
+263940,0,0,"On July 30, 2012, a person born on August 8, 2000 would most likely be a ______.",child,not yet born,elderly person,infant,preschool-age child
+248173,4,4,How long does it typically take to kick a football?,between 10 and 90 minutes,24 hours,a few hours,a few minutes,a few seconds
+296967,2,4,"Only males who like blueberries are allowed on the hockey team. Only females who like boysenberries are allowed on the rugby team. Daisy's half-sister, Billie, likes all maroon fruits. Which team could Billie join?",the soccer team,the baseball team,the hockey team,the basketball team,the rugby team
+260065,4,4,"Cherry needs bicycle lights, closed dishwashing machines, and Irish whiskey. She already has bicycle lights and closed dishwashing machines. Where should she go?",clothing store,art supply store,office supply store,electronics store,liquor store
+319497,3,3,Charity is expressing boredom. Cliff is fleeing. Rob is expressing wonderment. Which of them is most likely feeling fright?,Charity,Rob,Daisy,Cliff,Joy
+320640,0,0,Cliff is snuggling. Daisy is wearing modest clothing. Daisy is expressing nervousness. Which of them is most likely feeling love?,Cliff,Charity,Daisy,Rob,Joy
+160123,2,4,Which of the following is 10 months after 5:11 a.m. on the third of September 1926?,"5:11 a.m. on September 3, 1826","7:11 p.m. on September 2, 1926","5:11 a.m. on September 3, 2026","3:11 p.m. on September 3, 1936","5:11 a.m. on July 3, 1927"
+189846,2,0,Which of these things is typically largest?,file cabinet,shoe box,heart,French horn,yam
+297093,0,2,"Only females who like grapefruit are allowed on the hockey team. Only males who like tangerines are allowed on the soccer team. Daisy's mother-in-law, Billie, likes all citron fruits. Which team could Billie join?",the soccer team,the rugby team,the hockey team,the basketball team,the baseball team
+319662,2,3,Daisy is flirting. Rob is presenting with a bemused countenance. Cliff is celebrating. Which of them is most likely feeling surprise?,Joy,Daisy,Cliff,Rob,Charity
+329847,4,4,Pick the one which is typically faster than all the others.,Segway,fiddler crab,parked car,riding mower,ferret
+296158,2,3,April missed a call at 1 a.m.. She returned it 9 hours later. When did she return the call?,3 a.m.,8 p.m.,2 p.m.,10 a.m.,noon
+319226,4,4,Charity is retching. Rob is penalizing. Cliff is greeting. Which of them is most likely feeling companionship?,Joy,Rob,Daisy,Charity,Cliff
+143495,4,4,Wednesday comes just before which of the following?,June,noon,8 p.m.,Tuesday,Thursday
+329843,4,2,Which of these is usually the fastest?,parked car,cruise ship,giraffe,riding mower,Segway
+320886,2,3,"In Yellow Town, every grocery shop is orange vermillion, every butcher shop is gray, and every farmer's market is grayish reddish purple. Amythest needs a carrot. What color store could she get it at?",red brown,brown,grey,dull violet,green
+214735,0,0,It's too bad Bobby served ______. Everybody at the party follows the vegan diet program.,poultry breast,vegetable,anise liqueur,tamarillo,ginseng
+289965,1,2,What typically lasts 1 month?,December first,March second,Nissan,changing a diaper,June eighth
+296991,3,4,"Only males who like ripe mangos are allowed on the baseball team. Only females who like honeydews are allowed on the soccer team. Daisy's uncle, Billie, likes all sandarach fruits. Which team could Billie join?",the rugby team,the hockey team,the basketball team,the soccer team,the baseball team
+263495,1,1,Ginger bet Duke that no demesne is a Romaine heart. Ginger is a mathematician. Duke is a singer. Which of them won the bet?,U.S. Navy seal,mathematician,cowgirl,brewer,singer
+294728,0,0,April missed a call at 10 a.m.. She returned it 10 hours later. When did she return the call?,8 p.m.,11 p.m.,3 a.m.,5 a.m.,9 p.m.
+189723,2,2,"Out of the following, which takes less time than all the others?",eye exam,major league baseball game,washing hair,sewing with a sewing machine,Anglican wedding
+294576,4,4,April missed a call at 2 a.m.. She returned it 1 hour later. When did she return the call?,1 a.m.,1 p.m.,7 a.m.,11 a.m.,3 a.m.
+260259,3,3,"In Dill town, you can only buy flesh at Rose's Store, and you can only buy fruits at Cherry's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Rose's Store, and any time he is at Cherry's Store, she is at Rose's Store. Basil is buying rock cornish hen. Where is Lily?",Pepper's Store,Cherry's Store,Carrot's Store,Rose's Store,Rosemary's Store
+189920,4,2,"Of these things, pick the one which is usually smaller than the others.",Egyptian pyramid,giraffe,sitar,refrigerator,kitchen
+294241,4,2,April received a letter in August. She answered it 6 months later. When did she answer the letter?,December,April,February,August,March
+263150,1,3,Duke bet Ginger that no paved road is a highway. Ginger is a basketball coach. Duke is a farmhand. Which of them won the bet?,cowpoke,farm worker,secretary,basketball coach,pediatrician
+190130,0,0,Which of the following is usually bigger than the others?,showroom in which there is displaying with a self-powered vehicle,cow,sandbox,cockpit,eating table
+264037,4,3,Duke bet Ginger that no well-done steak is raw food. Ginger is a teller. Duke is an ornithologist. Which of them won the bet?,farmer,pianist,Professional cook,ornithologist,bank teller
+320368,2,4,Cliff is bludgeoning. Daisy is expressing a feeling of obligation. Charity is penalizing. Which of them is most likely feeling reproach?,Rob,Daisy,Cliff,Joy,Charity
+324821,1,1,"In U.S. autumn, Rob visits the botanical garden every day. In U.S. summer, Rob visits the forest every day. Where will Rob go on September 21?",the campground,the botanical garden,the park,the graveyard,the forest
+319358,0,0,Daisy is expressing guilt. Rob is rudeness. Charity is thanking. Which of them is most likely feeling gratitude?,Charity,Daisy,Rob,Cliff,Joy
+320738,0,0,Charity is yelling. Joy is hostile action. Cliff is throwing flowers. Which of them is most likely feeling adulation?,Cliff,Joy,Daisy,Rob,Charity
+294322,0,0,April received a letter in July. She answered it 10 months later. When did she answer the letter?,May,March,August,July,April
+263677,2,2,Ginger bet Duke that no machine tool is a communication tower. Ginger is a construction worker. Duke is a dairy worker. Which of them won the bet?,dairy worker,researcher,construction worker,kindergarten teacher,assistant professor
+320341,4,4,Daisy is chastising. Joy is waving. Rob is writing a fan letter. Which of them is most likely feeling reproach?,Joy,Rob,Cliff,Charity,Daisy
+295978,4,4,April missed a call at 2 a.m.. She returned it 1 hour later. When did she return the call?,10 a.m.,9 p.m.,8 a.m.,5 p.m.,3 a.m.
+336570,1,1,"In Strange Town, you're only allowed to play board games in the forest, you're only allowed to attend entertainment events in the graveyard, and you're only allowed to play a musical instrument in the theater district. Charity is playing Mahjong. Where is Charity?",the graveyard,the physical universe,the forest,the botanical garden,the park
+264376,2,2,"If in order for an animal to perform an animal activity, it must have a fingernail, In order for an animal to play the doer role in ______, it must have a fingernail.",pointing a finger,secretion of saliva,scratching,supporting one's weight with legs,circulating circulatory fluid
+190154,3,3,"Of these things, pick the one which is usually the biggest.",golf ball,pencil,adult shrew,Ambrosia apple,french fry
+300477,2,1,Daisy praised Will. Joy chided Will. Who made Will feel angry?,Rob,Joy,Daisy,Cliff,Charity
+189525,2,2,Pick the one which is typically the biggest.,french fry,petri dish,damaged hearts,pencil,golf ball
+262624,2,0,"In Dill town, you can only buy office products at Cherry's Store, and you can only buy grain at Pepper's Store. In a strange coincidence, any time Basil is at Cherry's Store, Lily is at Cherry's Store, and any time he is at Pepper's Store, she is at Carrot's Store. Basil is buying grain. Where is Lily?",Carrot's Store,Pepper's Store,Cherry's Store,Rosemary's Store,Rose's Store
+319387,2,2,Joy is expressing feeling offended. Daisy is skinny dipping. Rob is expressing sympathy. Which of them is most likely feeling enjoyment?,Cliff,Rob,Daisy,Charity,Joy
+336427,4,4,Charity was appropriated by Daisy. Melody was excoriated by Charity. Who did something affecting Charity?,Rob,Cliff,Joy,Charity,Daisy
+319247,1,1,Charity is creating a conceptual work. Charity is acting offended. Daisy is hostile act. Which of them is most likely feeling denouncement?,Rob,Daisy,Charity,Joy,Cliff
+159995,0,0,Which of the following is 2 years after 6:30 a.m. on day number 22 in January 1901?,"6:30 a.m. on January 22, 1903","8:30 a.m. on January 22, 1903","6:30 a.m. on January 24, 1901","6:30 a.m. on January 22, 1921","6:30 a.m. on March 22, 1901"
+319755,4,4,Rob is sharing. Daisy is jazz dancing. Charity is expressing enjoyment. Which of them is most likely feeling entertainment?,Rob,Charity,Joy,Cliff,Daisy
+259886,4,4,"Cherry needs housewares, cooking range drop in, and bicycle handlebars. She already has housewares and bicycle handlebars. Where should she go?",bookstore,lawn and garden store,fish market,toy store,appliance store
+336269,4,4,"In Strange Town, you're only allowed to engage in politics in the theater district, you're only allowed to attend entertainment events in the graveyard, and you're only allowed to play board games in the forest. Daisy is attending plays. Where is Daisy?",the forest,the theater district,the botanical garden,the park,the graveyard
+260248,3,3,"Cherry needs dry vermouth, slippers design for use by boys, and honeydew melons. She already has dry vermouth and honeydew melons. Where should she go?",bicycle shop,hair salon,drugstore,shoe store,bookstore
+159167,3,3,Which of the following is 6 days after 2:27 a.m. on the 30th of March 1981?,"2:27 a.m. on March 30, 1975","8:27 a.m. on March 30, 1987","2:27 a.m. on September 30, 1980","2:27 a.m. on April 5, 1981","8:27 a.m. on March 30, 1981"
+296063,0,4,April missed a call at 4 p.m.. She returned it 8 hours later. When did she return the call?,9 p.m.,10 a.m.,4 p.m.,1 p.m.,12 a.m.
+319887,1,1,"In Yellow Town, every bicycle store is deep teal blue, every shoe shop is cream, and every lawn and garden store is bronze brown. Jade needs a Nike running shoe. What color store could she get it at?",brown black,cream,teal blue,green,purple
+295838,4,4,April missed a call at 11 p.m.. She returned it 1 hour later. When did she return the call?,noon,10 p.m.,6 p.m.,11 p.m.,12 a.m.
+214239,3,3,It's too bad Bobby served ______. Everybody at the party follows the Halal diet.,pretzel,Braeburn apple,jalapeno pepper,standard alcoholic drink that contains exactly 25. 3 mL of pure alcohol,burnt almond
+263474,1,1,Duke bet Ginger that no landmass is a nacho. Ginger is an MD. Duke is a pipe fitter. Which of them won the bet?,priest,plumber,U.S. Navy seal,construction worker,doctor
+263309,3,3,Ginger bet Duke that no root vegetable is a cave. Ginger is a Prime Minister. Duke is a psychoanalyst. Which of them won the bet?,fisherman,politician,psychoanalyst,Prime Minister,basketball coach
+297007,3,3,"Only males who like plums are allowed on the rugby team. Only females who like honeydews are allowed on the basketball team. Daisy's stepsister, Billie, likes all green fruits. Which team could Billie join?",the hockey team,the soccer team,the rugby team,the basketball team,the baseball team
+300719,2,2,Rob defamed Will. Joy mothered Will. Who made Will feel angry?,Charity,Daisy,Rob,Cliff,Joy
+320575,1,2,Charity is expressing liking. Joy is offering. Rob is listening. Which of them is most likely feeling humanity?,Cliff,Joy,Rob,Charity,Daisy
+289439,4,1,What typically lasts a few seconds?,Febuary sixth,unfastening a safety belt,January twelfth,Febuary 27th,vacuum-cleaning
+329117,4,4,Which of these things isn't usually slower than any of the others?,riding mower,Segway,giant sequoia,golf cart,duck-billed platypus
+300628,4,4,Cliff cheered Will. Charity repudiated Will. Who made Will feel happy?,Rob,Daisy,Charity,Joy,Cliff
+335855,1,1,"In Strange Town, you're only allowed to engage in politics in the financial district, you're only allowed to play musical instruments in the shipyard, and you're only allowed to play cards in the theater district. Charity is playing guitar. Where is Charity?",the campground,the shipyard,the theater district,the forest,the financial district
+258916,2,2,"Cherry needs psx, kitty treats, and fireplace tools. She already has psx and kitty treats. Where should she go?",liquor store,butcher shop,hardware store,electronics store,grocery store
+297062,2,3,"Only males who like apricots are allowed on the baseball team. Only females who like McIntosh apples are allowed on the hockey team. Daisy's brother-in-law, Billie, likes all yellowish orange fruits. Which team could Billie join?",the basketball team,the rugby team,the hockey team,the baseball team,the soccer team
+300657,4,4,Joy comforted Will. Rob excoriated Will. Who made Will feel embarrassed?,Joy,Charity,Cliff,Daisy,Rob
+301386,4,4,Charity minded Will. Rob deprecated Will. Who made Will feel grateful?,Rob,Joy,Daisy,Cliff,Charity
+301173,0,0,Rob chided Will. Charity glorified Will. Who made Will feel proud?,Charity,Daisy,Rob,Joy,Cliff
+289788,1,1,What typically lasts 24 hours?,opening champagne,Tevet second,Adar,performing a manual breast examination,undressing
+263471,0,0,Ginger bet Duke that no city block is whey. Ginger is a researcher. Duke is a pediatrician. Which of them won the bet?,researcher,retail sales clerk,academic,pediatrician,farm worker
+263708,4,4,Ginger bet Duke that no Steppe Polecat is an earthworm. Ginger is a maid. Duke is a secretary. Which of them won the bet?,secretary,flight attendant,basketball coach,cowpoke,maid
+328806,4,4,Which of these things is typically slowest?,Formula 1 race car,sled,go cart,F-16 fighting falcon,elk
+320618,2,4,Joy is saluting. Daisy is looking disgusted. Charity is listening. Which of them is most likely feeling kindness?,Daisy,Rob,Charity,Cliff,Joy
+294303,3,3,April received a letter in April. She answered it 9 months later. When did she answer the letter?,October,April,May,January,November
+193608,1,3,You write the word “contractor” with ______ letters.,4,7,5,10,3
+324678,0,3,"In U.S. spring, Joy visits the forest every day. In U.S. summer, Joy visits the botanical garden every day. Where will Joy go on March 8?",the botanical garden,the theater district,the financial district,the forest,the shipyard
+329612,1,4,Pick the one which is usually faster than the others.,golf cart,tractor,cruise ship,parked car,jackal
+319607,2,2,Rob is acting touched. Daisy is expressing liking. Charity is listening. Which of them is most likely feeling sympathy?,Joy,Daisy,Charity,Rob,Cliff
+263257,2,2,Ginger bet Duke that no gas range is a porpoise. Ginger is a basketball coach. Duke is a manager. Which of them won the bet?,manager,mathematician,basketball coach,mover,cowgirl
+290005,3,3,What typically lasts 1 month?,December second,March fourteenth,applause,Adar,November third
+190288,0,0,"Of these things, pick the one which is typically the tiniest.",hospital room,school building auditorium,house master bedroom,school gymnasium,home bedroom
+335723,1,1,"In Strange Town, you're only allowed to play board games in the theater district, you're only allowed to play musical instruments in the shipyard, and you're only allowed to engage in politics in the graveyard. Melody is Instrument Playing Fn Gibson guitar. Where is Melody?",the forest,the shipyard,the theater district,the graveyard,the financial district
+294498,2,2,April missed a call at 3 p.m.. She returned it 6 hours later. When did she return the call?,12 a.m.,8 a.m.,9 p.m.,7 a.m.,9 a.m.
+319336,4,2,Cliff is holding hands. Daisy is jesting. Rob is Latin dancing. Which of them is most likely feeling romantic love?,Joy,Charity,Cliff,Daisy,Rob
+189646,2,0,Which of these things isn't usually smaller than any of the others?,single-car garage,horse,zebra,car,examining table
+263283,2,2,Ginger bet Duke that no Pacific Rock crab is a rough-skinned newt. Ginger is a lead guitarist. Duke is a pediatrician. Which of them won the bet?,Prime Minister,stockbroker,lead guitarist,pediatrician,priest
+320357,0,0,Cliff is jumping. Charity is clubbing. Rob is comforting. Which of them is most likely feeling friendliness?,Rob,Joy,Cliff,Charity,Daisy
+319362,0,4,Charity is taking first steps. Joy is applauding. Daisy is bodily recoiling. Which of them is most likely feeling eagerness?,Charity,Daisy,Cliff,Rob,Joy
+320834,4,4,Rob is contemplating. Daisy is giving the thumbs-up sign. Rob is snarling. Which of them is most likely feeling exuberance?,Charity,Joy,Rob,Cliff,Daisy
+320693,3,3,Daisy is directing emotion toward someone or something. Daisy is following. Rob is chastising. Which of them is most likely feeling reproach?,Cliff,Joy,Charity,Rob,Daisy
+214519,2,0,Rosalyn is coming to your house for dinner. She is an adherent of the Halal diet. What food or drink would she not be willing to eat?,armagnac,animal cracker,mango,habañero pepper,cantaloupe
+143539,0,4,What comes after 6 p.m.?,10 p.m.,Monday,Thursday,a.m.,7 p.m.
+294476,2,1,April missed a call at 12 a.m.. She returned it 2 hours later. When did she return the call?,4 a.m.,2 a.m.,1 p.m.,2 p.m.,6 p.m.
+325067,4,2,"In U.S. summer, Daisy visits the park every day. In U.S. winter, Daisy visits the graveyard every day. Where will Daisy go on February 24?",the theater district,the financial district,the graveyard,the town square,the park
+294809,1,4,April missed a call at 7 a.m.. She returned it 8 hours later. When did she return the call?,5 a.m.,2 p.m.,2 a.m.,6 p.m.,3 p.m.
+214517,2,2,It's too bad Bobby served ______. Everybody at the party follows the Halal diet.,Indian sweet,cream of rice,aguadiente,Asparagus,muffin
+319543,3,0,Rob is bodily recoiling. Charity is jabbing. Daisy is looking longingly. Which of them is most likely feeling repulsion?,Rob,Joy,Cliff,Charity,Daisy
+264463,2,2,Whales have this many legs:,5,4,0,9,6
+319783,2,2,Cliff is wringing. Rob is creating a conceptual work. Charity is expressing sympathy. Which of them is most likely feeling preoccupation?,Rob,Charity,Cliff,Joy,Daisy
+182021,3,3,Which of the following is 4 decades after 7:29 p.m. on the seventeenth of March 1938?,"7:29 p.m. on March 17, 1942","11:29 p.m. on March 17, 1942","7:29 p.m. on March 13, 1938","7:29 p.m. on March 17, 1978","7:29 p.m. on July 17, 1938"
+325729,0,1,"In U.S. spring, Charity visits the park every day. In U.S. winter, Charity visits the financial district every day. Where will Charity go on December 24?",the park,the financial district,the graveyard,the theater district,the forest
+189403,0,0,Which of these isn't usually smaller than any of the others?,quarter horse,chest freezer,lectern,clothes dryer,oven
+320465,1,1,Cliff is giving the thumbs-up sign. Charity is having a baffled look. Charity is giving a look of pity. Which of them is most likely feeling enthusiasm?,Joy,Cliff,Daisy,Rob,Charity
+336271,4,4,"In Strange Town, you're only allowed to play musical instruments in the botanical garden, you're only allowed to attend entertainment events in the shipyard, and you're only allowed to play a team sport in the theater district. Cliff is attending theatrical shows. Where is Cliff?",the theater district,the botanical garden,the financial district,the forest,the shipyard
+248195,4,4,Classical music performances typically last ______.,between 0.5 and 3 hours,between 5 and 10 minutes,between 1 and 400 minutes,between 2 and 4 hours,a few hours
+268941,0,0,Bob is a husky. How many legs does he have?,4,9,5,10,6
+258832,4,4,"Cherry needs paintbrushes, coffee makers, and Brie cheese. She already has Brie cheese and paintbrushes. Where should she go?",grocery store,drugstore,butcher shop,confectionery,appliance store
+260589,2,4,"In Dill town, you can only buy flesh at Rose's Store, and you can only buy cereal grains at Cherry's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Rosemary's Store, and any time he is at Cherry's Store, she is at Rose's Store. Basil is buying ground turkey. Where is Lily?",Carrot's Store,Cherry's Store,Rose's Store,Pepper's Store,Rosemary's Store
+290081,4,1,______ typically last a few hours.,Febuary 23rds,makings cheese,basketball games,removings an item of clothing,slideshow presentations
+336207,3,3,"In Strange Town, you're only allowed to play a card game in the park, you're only allowed to play musical instruments in the shipyard, and you're only allowed to play a team sport in the financial district. Charity is playing sabre fencing. Where is Charity?",the financial district,the campground,the shipyard,the physical universe,the theater district
+320360,4,1,Joy is following instructions. Daisy is fulfilling obligations. Rob is frowning. Which of them is most likely feeling respect?,Cliff,Joy,Charity,Rob,Daisy
+264321,3,3,"If in order for an animal to perform an animal activity, it must have a leg, In order for an animal to play the doer role in ______, it must have a leg.",defecating,using a paddle done by a human,secretion of calcitonin,horse gait,sucking on something
+289656,4,4,What typically lasts a few minutes?,April 23rd,January third,week,Febuary fifth,making a sandwich
+320636,1,1,Charity is hanging idly around. Charity is writing a fan letter. Cliff is hostile action. Which of them is most likely feeling hostility?,Daisy,Cliff,Joy,Rob,Charity
+335828,2,2,"In Strange Town, you're only allowed to play a team sport in the park, you're only allowed to attend entertainment events in the botanical garden, and you're only allowed to play musical instruments in the town square. Cliff is playing cricket. Where is Cliff?",the park,the town square,the physical universe,the graveyard,the theater district
+259416,4,4,"Cherry needs roasters, cat food, and muffins. She already has roasters and muffins. Where should she go?",bakery,bicycle shop,hardware store,bookstore,pet store
+259689,1,1,"Cherry needs 13 inch television sets, home carbon monoxide detectors, and hair styling products. She already has hair styling products and 13 inch television sets. Where should she go?",cheese shop,appliance store,fruits and vegetables market,electronics store,bait and tackle shop
+319781,4,1,Rob is endeavoring to get. Joy is taking risks. Daisy is clubbing. Which of them is most likely feeling self-confidence?,Rob,Joy,Cliff,Charity,Daisy
+197255,1,4,The word “wildcat” is written with ______ letters.,8,5,9,4,7
+320433,0,0,Daisy is shaking a fist. Joy is looking touched. Rob is giving a reproachful look. Which of them is most likely feeling rage?,Daisy,Cliff,Joy,Rob,Charity
+320275,1,1,Daisy is cogitating. Joy is clenching one’s fists. Charity is saluting. Which of them is most likely feeling frustration?,Rob,Joy,Charity,Cliff,Daisy
+263493,1,2,Ginger bet Duke that no human residence area is an earthworm. Ginger is a cosmetic surgeon. Duke is a stockbroker. Which of them won the bet?,bartender,stockbroker,cosmetic surgeon,doorman,pitcher
+296175,1,2,April missed a call at noon. She returned it 4 hours later. When did she return the call?,11 p.m.,5 p.m.,4 p.m.,6 p.m.,7 p.m.
+260162,0,4,"In Dill town, you can only buy office products at Cherry's Store, and you can only buy fruit at Pepper's Store. In a strange coincidence, any time Basil is at Cherry's Store, Lily is at Carrot's Store, and any time he is at Pepper's Store, she is at Rosemary's Store. Basil is buying stuff composed of pineapple. Where is Lily?",Carrot's Store,Cherry's Store,Pepper's Store,Rose's Store,Rosemary's Store
+266152,1,1,A turtle has this many spinal columns:,4,1,9,3,0
+300935,4,4,Rob were nice Will. Daisy disapproved Will. Who made Will feel happy?,Daisy,Joy,Charity,Cliff,Rob
+263956,4,4,Duke bet Ginger that no aphid is a cocktail. Ginger is a manager. Duke is a cosmetic surgeon. Which of them won the bet?,newscaster,retail sales clerk,cowgirl,manager,cosmetic surgeon
+336457,3,1,"In Strange Town, you're only allowed to play cards in the financial district, you're only allowed to play musical instruments in the shipyard, and you're only allowed to engage in politics in the campground. Daisy is playing poker. Where is Daisy?",the botanical garden,the financial district,the park,the shipyard,the campground
+294606,2,2,April missed a call at 10 p.m.. She returned it 3 hours later. When did she return the call?,10 a.m.,11 a.m.,1 a.m.,12 a.m.,4 a.m.
+319381,0,0,Charity is giving a thank you card. Daisy is querying. Rob is acting offended. Which of them is most likely feeling interest?,Daisy,Joy,Cliff,Rob,Charity
+193571,4,1,The word “kid” has how many letters?,4,3,11,10,6
+297041,0,2,"Only females who like ripe mangos are allowed on the baseball team. Only males who like Gala apples are allowed on the soccer team. Daisy's granddaughter, Billie, likes all realgar fruits. Which team could Billie join?",the soccer team,the basketball team,the baseball team,the hockey team,the rugby team
+319709,1,1,Cliff is expressing shame. Joy is expressing confusion. Rob is shaking one’s head. Which of them is most likely feeling reproach?,Daisy,Rob,Charity,Joy,Cliff
+294760,1,1,April missed a call at 9 p.m.. She returned it 10 hours later. When did she return the call?,12 a.m.,7 a.m.,6 p.m.,5 a.m.,8 p.m.
+301241,4,4,Joy acclaimed Will. Charity criticised Will. Who made Will feel proud?,Rob,Charity,Daisy,Cliff,Joy
+295979,3,3,April missed a call at 8 p.m.. She returned it 11 hours later. When did she return the call?,9 a.m.,5 p.m.,6 a.m.,7 a.m.,4 a.m.
+263663,3,3,Duke bet Ginger that no industry is a wombat. Ginger is a U.S. Navy seal. Duke is a rancher. Which of them won the bet?,teacher,migrant farm worker,U.S. Navy seal,rancher,accountant
+296273,4,4,April missed a call at 6 a.m.. She returned it 11 hours later. When did she return the call?,9 a.m.,4 a.m.,10 a.m.,1 a.m.,5 p.m.
+194164,3,2,The word “goldfish” has how many letters?,4,7,8,11,3
+258789,1,1,"Cherry needs desks, dog toys, and mutton. She already has desks and dog toys. Where should she go?",lawn and garden store,grocery store,fruits and vegetables market,bookstore,drugstore
+190036,4,2,"Of these things, pick the one which is typically the biggest.",armoire,bed,photography studio,billiard table,grave
+335983,4,2,"In Strange Town, you're only allowed to play board games in the financial district, you're only allowed to play musical instruments in the shipyard, and you're only allowed to play a card game in the botanical garden. Cliff is playing Yahtzee. Where is Cliff?",the forest,the botanical garden,the financial district,the town square,the shipyard
+320695,2,0,Cliff is putting conventions aside. Daisy is querying. Charity is listening. Which of them is most likely feeling respect?,Charity,Joy,Cliff,Rob,Daisy
+263135,4,4,Ginger bet Duke that no windmill is a bomb-sniffing dog. Ginger is a sitter. Duke is a cosmetic surgeon. Which of them won the bet?,cosmetic surgeon,doctor,carpenter,computer programmer,babysiter
+336267,2,2,Joy was saw by Melody. Melody was taught by Joy. Who did something affecting Joy?,Daisy,Rob,Melody,Cliff,Joy
+320235,1,1,Daisy is bodily recoiling. Charity is folk dancing. Cliff is reacting in conversation with frustration. Which of them is most likely feeling entertainment?,Daisy,Charity,Cliff,Joy,Rob
+264208,4,4,"On September 8, 2022, a person born on day number 17 in January 2069 would most likely be a ______.",elderly person,preschool-age child,dead organism,school-age child,not yet born
+320710,0,0,Joy is sneering. Charity is boasting. Charity is thanking someone. Which of them is most likely feeling repulsion?,Joy,Cliff,Charity,Rob,Daisy
+329698,0,0,Pick the thing which is typically faster than all the others.,roe deer,riding mower,golf cart,pirana,cruise ship
+214402,3,3,Rosalyn is coming to your house for dinner. She follows a Halal diet. Pick the food or drink you couldn't serve to Rosalyn.,guacamole,ripe lemon,prime rib,Kir royal,filled donut
+313227,2,2,Rob ridiculed Joy. What was the action?,being nice,Joy,ridiculing,Rob,defaming
+214523,4,4,Rosalyn is coming to your house for dinner. She only eats what is allowed by the Halal diet. What food or drink would she not be willing to eat?,blackberry,pizza crust,carrot,sugar free marshmallow,carnitas
+295806,2,2,April missed a call at 3 a.m.. She returned it 3 hours later. When did she return the call?,6 p.m.,3 p.m.,6 a.m.,1 a.m.,7 p.m.
+264125,2,3,Ginger bet Duke that no strip mall is an object constructed by humans. Ginger is a fast food cook. Duke is a chambermaid. Which of them won the bet?,farm worker,mathematician,fast-food cook,maid,mover
+263787,2,3,Ginger bet Duke that no animal is a duck. Ginger is a pipe fitter. Duke is a CIA agent. Which of them won the bet?,assistant professor,newscaster,plumber,CIA agent,doorman
+320313,3,3,Cliff is expressing humiliation. Rob is giving the thumbs-up sign. Joy is fidgeting. Which of them is most likely feeling nervousness?,Rob,Cliff,Charity,Joy,Daisy
+196845,1,1,Writing the word “finger” requires writing ______ letters.,11,6,10,4,9
+300827,1,2,Joy toasted Will. Daisy chided Will. Who made Will feel angry?,Cliff,Joy,Daisy,Rob,Charity
+248175,1,1,Yuhan asked Darian how long marching band performances takes. What did he tell her?,between 5 and 180 minutes,a few hours,between 30 and 90 minutes,6 months,between 0.5 and 4 hours
+294271,1,2,April received a letter in November. She answered it 3 months later. When did she answer the letter?,June,January,February,October,August
+319700,3,3,Daisy is straining. Charity is opening champagne. Cliff is looking downward. Which of them is most likely feeling feeling of celebration?,Joy,Rob,Cliff,Charity,Daisy
+336500,2,2,Joy was honored by Daisy. Cliff was mocked by Joy. Who did something affecting Joy?,Charity,Joy,Daisy,Cliff,Rob
+295944,1,1,April missed a call at 4 p.m.. She returned it 9 hours later. When did she return the call?,9 p.m.,1 a.m.,2 p.m.,5 p.m.,4 a.m.
+301163,4,4,Charity helped out Will. Rob excoriated Will. Who made Will feel grateful?,Cliff,Rob,Joy,Daisy,Charity
+295991,4,4,April missed a call at 1 p.m.. She returned it 1 hour later. When did she return the call?,9 a.m.,6 a.m.,3 a.m.,8 a.m.,2 p.m.
+329057,3,3,Which of the following is usually slower than the others?,personal watercraft,Porsche 911 Series,bullet train,elk,railroad train
+160447,1,1,Which of the following is 8 full years after 7:33 p.m. on the 21st of August 1983?,"7:33 p.m. on August 21, 1183","7:33 p.m. on August 21, 1991","3:33 a.m. on August 22, 1991","7:41 p.m. on August 21, 1983","7:33 p.m. on August 21, 1975"
+194267,0,2,You write the word “alligator” with ______ letters.,4,11,9,7,3
+320582,4,4,Rob is creating a conceptual work. Joy is expressing wanting. Charity is asking. Which of them is most likely feeling inspiration?,Joy,Charity,Cliff,Daisy,Rob
+324782,2,0,"In U.S. summer, Rob visits the park every day. In U.S. autumn, Rob visits the shipyard every day. Where will Rob go on November 26?",the shipyard,the campground,the park,the botanical garden,the graveyard
+226470,4,1,______ is typically more voluminous than a Belgian Sheepdog.,a house cat,a horse,a chime,a pocket watch,a Maltese
+319168,3,3,Cliff is boasting. Rob is expressing being trapped. Charity is flamenco dancing. Which of them is most likely feeling passion?,Cliff,Joy,Daisy,Charity,Rob
+263196,2,4,Ginger bet Duke that no baked good is a wedding cake. Ginger is a physician. Duke is an author. Which of them won the bet?,astronomer,teacher,doctor,appraiser,author
+263464,2,2,Ginger bet Duke that no cloudy area is pants. Ginger is a banker. Duke is a researcher. Which of them won the bet?,appraiser,brewer,banker,teacher,researcher
+296086,0,0,April missed a call at 6 a.m.. She returned it 10 hours later. When did she return the call?,4 p.m.,11 p.m.,11 a.m.,7 a.m.,5 p.m.
+263093,2,2,"In Dill town, you can only buy fruit at Pepper's Store, and you can only buy office products at Carrot's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Carrot's Store, and any time he is at Carrot's Store, she is at Rose's Store. Basil is buying primarily paper product. Where is Lily?",Cherry's Store,Carrot's Store,Rose's Store,Rosemary's Store,Pepper's Store
+300662,3,1,Daisy protected Will. Joy defamed Will. Who made Will feel embarrassed?,Rob,Joy,Cliff,Daisy,Charity
+300960,1,1,Cliff solaced Will. Rob snubbed Will. Who made Will feel grateful?,Joy,Cliff,Charity,Rob,Daisy
+319809,3,3,Daisy is expressing indecision. Daisy is remembering. Charity is biting one’s fingernails. Which of them is most likely feeling nervousness?,Joy,Daisy,Cliff,Charity,Rob
+182372,4,4,"Which of the following is 8 hours after 10:37 p.m. on June 9, 1897?","6:37 a.m. on June 10, 1905","10:37 p.m. on February 9, 1898","10:37 p.m. on June 9, 1817","10:37 p.m. on October 9, 1896","6:37 a.m. on June 10, 1897"
+320012,4,2,"In Yellow Town, every bait and tackle shop is powder blue, every liquor shop is grey, and every clothing store is vivid yellowish green. Ebony needs dry vermouth. What color store could she get it at?",red,pale green blue,gray,orange,vivid yellowish green
+263466,1,1,Duke bet Ginger that no Pea crab is assembled food. Ginger is a florist. Duke is a drum player. Which of them won the bet?,bartender,drummer,florist,school teacher,magician
+189738,3,3,Which of the following is typically smaller than all the others?,factory building,school gymnasium,school building auditorium,restaurant facility kitchen,house
+336426,2,2,"In Strange Town, you're only allowed to engage in politics in the shipyard, you're only allowed to attend entertainment events in the botanical garden, and you're only allowed to play a card game in the financial district. Cliff is watching X-rated movies at a theater. Where is Cliff?",the town square,the financial district,the botanical garden,the shipyard,the graveyard
+264006,3,3,Ginger bet Duke that no household is a White-tipped mud crab. Ginger is a circus clown. Duke is a Professional cook. Which of them won the bet?,Professional cook,lead guitarist,U.S. Navy seal,circus clown,singer
+296169,0,0,April missed a call at 1 p.m.. She returned it 7 hours later. When did she return the call?,8 p.m.,5 a.m.,noon,11 a.m.,9 a.m.
+214503,2,2,Rosalyn is coming to your house for dinner. She is an adherent of the Halal diet. Pick the food or drink you couldn't serve to Rosalyn.,crepe,lettuce,rum,sorbet,fruitcake
+319777,1,1,Charity is avoiding. Daisy is putting convention aside. Joy is scowling. Which of them is most likely feeling distaste?,Daisy,Joy,Rob,Charity,Cliff
+301122,1,1,Rob insulted Will. Daisy were nice Will. Who made Will feel happy?,Rob,Daisy,Charity,Joy,Cliff
+300773,3,3,Rob snubbed Will. Daisy aided Will. Who made Will feel grateful?,Charity,Joy,Rob,Daisy,Cliff
+319239,3,2,Cliff is comforting. Charity is making a 'we're number one!' gesture. Daisy is sneering. Which of them is most likely feeling abhorrence?,Joy,Charity,Daisy,Cliff,Rob
+143925,1,1,January comes after ______.,11 a.m.,December,autumn,12 a.m.,spring
+324999,1,3,"In U.S. autumn, Joy visits the graveyard every day. In U.S. summer, Joy visits the shipyard every day. Where will Joy go on November 20?",the theater district,the shipyard,the town square,the graveyard,the campground
+264054,3,3,Ginger bet Duke that no artifact used for communication is Sheldgoose. Ginger is a market broker. Duke is a drug dealer. Which of them won the bet?,drug dealer,author,carpenter,stockbroker,cowboy
+336309,3,3,Melody injured Charity. Charity deliberated Melody. Who did something affecting Charity?,Cliff,Joy,Rob,Melody,Daisy
+260364,4,4,"In Dill town, you can only buy fruits at Cherry's Store, and you can only buy whole grains at Rose's Store. In a strange coincidence, any time Basil is at Cherry's Store, Lily is at Cherry's Store, and any time he is at Rose's Store, she is at Rosemary's Store. Basil is buying wheat kernels. Where is Lily?",Pepper's Store,Carrot's Store,Rosemary's Store,Rose's Store,Cherry's Store
+297011,0,4,"Only males who like apricots are allowed on the baseball team. Only females who like pineapples are allowed on the basketball team. Daisy's niece, Billie, likes all gold-colored fruits. Which team could Billie join?",the baseball team,the soccer team,the hockey team,the rugby team,the basketball team
+263155,3,3,Duke bet Ginger that no Stalk-eyed mud crab is a U.S. city. Ginger is a fast food cook. Duke is a farmer. Which of them won the bet?,lifeguard,Prime Minister,computer programmer,farmer,fast-food cook
+263363,2,2,Duke bet Ginger that no egg salad is bourbon whiskey. Ginger is a carpenter. Duke is a mathematician. Which of them won the bet?,carpenter,politician,mathematician,lifeguard,doctor
+259895,1,1,"Cherry needs bicycle products, Wii, and electrical household appliances that are not a consumer electronic device. She already has bicycle products and electrical household appliances that are not a consumer electronic device. Where should she go?",bait and tackle shop,appliance store,bakery,farmer's market,shoe store
+336247,0,0,"In Strange Town, you're only allowed to play cards in the botanical garden, you're only allowed to play a musical instrument in the graveyard, and you're only allowed to play a team sport in the financial district. Rob is playing hurling. Where is Rob?",the physical universe,the theater district,the graveyard,the financial district,the town square
+295852,0,0,April missed a call at noon. She returned it 10 hours later. When did she return the call?,10 p.m.,7 p.m.,1 p.m.,4 a.m.,3 p.m.
+301148,2,2,Cliff maligned Will. Charity rooted Will. Who made Will feel grateful?,Joy,Rob,Charity,Daisy,Cliff
+336430,3,3,Rob was defended something against attack by Charity. Melody slaughtered Charity. Who did something affecting Charity?,Cliff,Daisy,Rob,Melody,Joy
+320436,3,3,Cliff is having a shocked expression. Daisy is expressing madness. Daisy is dancing by humans. Which of them is most likely feeling shock?,Rob,Charity,Daisy,Cliff,Joy
+159585,3,3,Which of the following is 8 centuries after 5:11 a.m. on day number 3 in September 1926?,"5:11 a.m. on May 3, 1927","1:11 p.m. on September 3, 1926","9:11 p.m. on September 2, 1926","5:11 a.m. on September 3, 2726","5:11 a.m. on September 3, 1934"
+336580,3,3,"In Strange Town, you're only allowed to engage in politics in the botanical garden, you're only allowed to attend entertainment events in the campground, and you're only allowed to play cards in the forest. Joy is watching a stage production. Where is Joy?",the forest,the botanical garden,the financial district,the campground,the shipyard
+335986,0,0,"In Strange Town, you're only allowed to play cards in the forest, you're only allowed to attend entertainment events in the campground, and you're only allowed to engage in politics in the financial district. Daisy is watching R-rated films at a theater. Where is Daisy?",the campground,the shipyard,the financial district,the forest,the botanical garden
+160468,4,2,Which of the following is 9 years after 6:30 a.m. on the 22nd of January 1901?,"6:30 a.m. on January 13, 1892","6:30 a.m. on January 22, 2801","6:30 a.m. on January 22, 1910","6:39 a.m. on January 22, 1901","6:30 a.m. on January 22, 1991"
+319575,4,4,Charity is pushing someone. Joy is expressing hope. Rob is looking thoughtful. Which of them is most likely feeling impatience?,Joy,Rob,Daisy,Cliff,Charity
+194121,4,0,You write the word “fly” with ______ letters.,3,9,8,5,4
+189966,3,0,Pick the one which is usually smaller than the others.,radish,Egyptian pyramid,built-in oven,bookcase,cupboard
+262156,4,1,"In Dill town, you can only buy flowers at Pepper's Store, and you can only buy cereal grains at Carrot's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Rose's Store, and any time he is at Carrot's Store, she is at Cherry's Store. Basil is buying farro. Where is Lily?",Rosemary's Store,Cherry's Store,Pepper's Store,Carrot's Store,Rose's Store
+263942,1,4,"A person born on August 8, 2000 would most likely be a ______ on July 30, 2012.",infant,preschool-age child,thirtysomething,not yet born,school-age child
+193378,2,2,The word “knee” is written with ______ letters.,8,3,4,11,5
+296972,4,2,"Only females who like honeydews are allowed on the basketball team. Only males who like huckleberries are allowed on the rugby team. Daisy's grandpa, Billie, likes all nigrosin violet fruits. Which team could Billie join?",the hockey team,the baseball team,the rugby team,the soccer team,the basketball team
+295909,3,3,April missed a call at 8 p.m.. She returned it 8 hours later. When did she return the call?,9 p.m.,6 p.m.,12 a.m.,4 a.m.,4 p.m.
+262780,3,3,"In Dill town, you can only buy office products at Rosemary's Store, and you can only buy flesh at Rose's Store. In a strange coincidence, any time Basil is at Rosemary's Store, Lily is at Cherry's Store, and any time he is at Rose's Store, she is at Cherry's Store. Basil is buying swordfish. Where is Lily?",Rosemary's Store,Carrot's Store,Rose's Store,Cherry's Store,Pepper's Store
+336358,1,1,Rob was evicted by Melody. Rob beheaded Charity. Who did something affecting Rob?,Rob,Melody,Daisy,Joy,Cliff
+143947,3,4,Wednesday always follows ______.,3 a.m.,May,Thursday,Wednesday,Tuesday
+295647,2,2,April missed a call at 8 p.m.. She returned it 5 hours later. When did she return the call?,8 a.m.,9 p.m.,1 a.m.,noon,10 p.m.
+320429,3,3,Daisy is expressing a silliness. Rob is avoiding. Daisy is endeavoring to escape. Which of them is most likely feeling repulsion?,Cliff,Daisy,Joy,Rob,Charity
+319228,1,0,Rob is sharing. Charity is chuckling. Cliff is attending a funeral. Which of them is most likely feeling camaraderie?,Rob,Charity,Cliff,Joy,Daisy
+294688,1,3,April missed a call at 7 p.m.. She returned it 8 hours later. When did she return the call?,2 p.m.,2 a.m.,6 p.m.,5 a.m.,10 p.m.
+336572,1,1,Joy argued Daisy. Daisy related Cliff. Who did something affecting Daisy?,Daisy,Joy,Cliff,Charity,Rob
+320676,1,1,Cliff is expressing empathy. Charity is flirting. Daisy is Latin dancing. Which of them is most likely feeling entertainment?,Rob,Daisy,Cliff,Charity,Joy
+294117,2,4,April received a letter on Sunday. She answered it 5 days later. On which day did she answer the letter?,Wednesday,Thursday,Monday,Sunday,Friday
+214455,1,1,What is forbidden by a Halal diet?,Gouda cheese,fruit liqueur,t-bone steak,hazelnut,oat
+324794,1,2,"In U.S. winter, Rob visits the forest every day. In U.S. summer, Rob visits the botanical garden every day. Where will Rob go on January 22?",the shipyard,the botanical garden,the forest,the theater district,the town square
+335822,0,1,"In Strange Town, you're only allowed to play board games in the campground, you're only allowed to attend entertainment events in the shipyard, and you're only allowed to play a team sport in the forest. Daisy is playing basketball. Where is Daisy?",the shipyard,the forest,the town square,the botanical garden,the campground
+295955,0,3,April missed a call at 3 p.m.. She returned it 6 hours later. When did she return the call?,8 p.m.,10 a.m.,8 a.m.,9 p.m.,5 a.m.
+320311,3,3,Daisy is reacting with sadness. Rob is expressing a relief. Joy is raising one’s voice. Which of them is most likely feeling madness?,Cliff,Daisy,Rob,Joy,Charity
+336366,3,3,Joy endorsed Cliff. Daisy funded Joy. Who did something affecting Joy?,Rob,Charity,Cliff,Daisy,Joy
+262609,0,3,"In Dill town, you can only buy fruits at Pepper's Store, and you can only buy cereal grains at Rosemary's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Rose's Store, and any time he is at Rosemary's Store, she is at Pepper's Store. Basil is buying barleycorns. Where is Lily?",Pepper's Store,Carrot's Store,Cherry's Store,Rose's Store,Rosemary's Store
+318705,0,0,Charity was ridiculed by Cliff. Who had the action done to them?,Charity,Joy,Daisy,ridiculing,Cliff
+297051,0,1,"Only males who like apricots are allowed on the rugby team. Only females who like apricots are allowed on the baseball team. Daisy's grandfather, Billie, likes all dull yellow fruits. Which team could Billie join?",the baseball team,the rugby team,the hockey team,the soccer team,the basketball team
+190105,2,2,"Out of the following, which takes less time than all the others?",automobile repair,event in which food or drink is served,turning on water,attending a music club,sewing with a sewing machine
+328878,1,0,Which of the following is typically slowest?,parked car,tractor,B-52 bomber,personal watercraft,steam locomotive
+319556,1,1,Daisy is giving a thank you card. Cliff is breakdancing. Rob is taking first steps. Which of them is most likely feeling entertainment?,Joy,Cliff,Rob,Charity,Daisy
+320565,0,0,Rob is skinny dipping. Daisy is thanking someone. Charity is covering one’s face. Which of them is most likely feeling fun?,Rob,Cliff,Charity,Daisy,Joy
+263154,3,3,Duke bet Ginger that no Orinoco goose is a naval gun. Ginger is a real estate agent. Duke is a secretary. Which of them won the bet?,farmer,short-order cook,real estate agent,secretary,florist
+300475,2,2,Cliff incriminated Will. Charity toasted Will. Who made Will feel happy?,Cliff,Daisy,Charity,Joy,Rob
+181940,0,4,"Which of the following is 2 weeks after 3:15 p.m. on December 13, 1972?","3:15 p.m. on February 13, 1973","3:17 p.m. on December 13, 1972","3:15 p.m. on December 13, 1974","3:15 p.m. on December 11, 1972","3:15 p.m. on December 27, 1972"
+181918,0,0,Which of the following is 5 weeks after 0:13 p.m. on day number 22 in July 1912?,"0:13 p.m. on August 26, 1912","0:13 p.m. on February 22, 1912","0:08 p.m. on July 22, 1912","0:13 p.m. on July 17, 1912","7:13 a.m. on July 22, 1912"
+318711,3,3,Rob aided Charity. Who had the action done to them?,Rob,aiding,Cliff,Charity,Joy
+313275,2,2,Rob shamed Charity. What was the action?,Rob,aiding,shaming,Charity,chastising
+320463,1,1,Cliff is supporting. Daisy is giving the thumbs-down sign. Charity is pacing. Which of them is most likely feeling empathy?,Charity,Cliff,Joy,Daisy,Rob
+296076,1,1,April missed a call at 4 a.m.. She returned it 7 hours later. When did she return the call?,10 p.m.,11 a.m.,7 a.m.,8 p.m.,1 p.m.
+198213,1,0,Writing the word “crocodile” requires writing ______ letters.,9,6,10,7,11
+300742,3,3,Rob insulted Will. Charity toasted Will. Who made Will feel angry?,Charity,Cliff,Daisy,Rob,Joy
+214168,2,2,It's too bad Bobby served ______. Everybody at the party follows the gluten free diet.,bovid meat,Braeburn apple,Newcastle brown ale,lemon,pickle
+295879,2,2,April missed a call at 12 a.m.. She returned it 9 hours later. When did she return the call?,7 a.m.,7 p.m.,9 a.m.,6 p.m.,1 a.m.
+320372,0,4,Daisy is heaving. Joy is speaking clearly. Cliff is twitching. Which of them is most likely feeling self-confidence?,Daisy,Cliff,Rob,Charity,Joy
+261080,0,0,"In Dill town, you can only buy blossoms at Rose's Store, and you can only buy meat at Cherry's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Cherry's Store, and any time he is at Cherry's Store, she is at Rosemary's Store. Basil is buying flower of the dong quai plant. Where is Lily?",Cherry's Store,Rosemary's Store,Carrot's Store,Pepper's Store,Rose's Store
+301245,0,0,Charity cheered Will. Joy defamed Will. Who made Will feel grateful?,Charity,Joy,Daisy,Cliff,Rob
+263537,1,1,Duke bet Ginger that no cereal is a gingiva. Ginger is a lifeguard. Duke is a priest. Which of them won the bet?,cosmetic surgeon,priest,contract killer,drug dealer,lifeguard
+258776,3,2,"Cherry needs low dose aspirin, household trash compactors, and PCs. She already has low dose aspirin and household trash compactors. Where should she go?",bait and tackle shop,sporting goods store,electronics store,office supply store,farmer's market
+263598,4,4,Duke bet Ginger that no mammalian milk is an auto. Ginger is an author. Duke is a baker. Which of them won the bet?,maid,author,computer programmer,U.S. Navy seal,baker
+264159,4,4,Ginger bet Duke that no city block is a gas range. Ginger is a mover. Duke is a prestidigitator. Which of them won the bet?,firefighter,magician,pediatrician,florist,mover
+320800,0,0,Rob is Middle Eastern dancing. Charity is looking embarrassed. Daisy is expressing wanting. Which of them is most likely feeling passion?,Rob,Joy,Cliff,Daisy,Charity
+320682,4,4,Charity is whipping. Rob is expressing enjoyment. Rob is speaking clearly. Which of them is most likely feeling coldness?,Cliff,Daisy,Joy,Rob,Charity
+336325,0,0,"In Strange Town, you're only allowed to engage in politics in the shipyard, you're only allowed to play musical instruments in the graveyard, and you're only allowed to play board games in the town square. Melody is Instrument Playing Fn charango. Where is Melody?",the graveyard,the shipyard,the town square,the park,the campground
+319901,1,1,Rob is looking impressed. Charity is giving the thumbs-down sign. Joy is Middle Eastern dancing. Which of them is most likely feeling enjoyment?,Rob,Joy,Daisy,Charity,Cliff
+264424,1,1,"If in order for an animal to perform an animal activity, it must have an ankle, In order for an animal to play the doer role in ______, it must have an ankle.",secretion of skin oil,supporting one's weight with legs,flatulence,TwoHandedThrow-Human,RaisingAHand
+214888,1,1,Rosalyn is coming to your house for dinner. She follows a vegetarian diet program. What food or drink would she not be willing to eat?,coffee,hotdog,wheat kernel,edible fruit,gilled mushroom
+269466,4,4,Austin is a kitty. How many ribs does he have?,1,9,0,5,24
+189735,0,2,Pick the thing which is usually tinier than the others.,briefcase,gasoline tank,Wire Haired Dachshund,swan,crib
+295683,2,1,April missed a call at 5 a.m.. She returned it 4 hours later. When did she return the call?,4 a.m.,9 a.m.,10 a.m.,7 p.m.,3 p.m.
+296167,3,3,April missed a call at 8 a.m.. She returned it 12 hours later. When did she return the call?,9 a.m.,7 p.m.,1 p.m.,8 p.m.,9 p.m.
+329934,4,4,Which of these things is usually the fastest?,golf cart,tractor,cruise ship,Segway,red-fronted macaw
+214603,2,2,It's too bad Bobby served ______. Everybody at the party follows the Kosher diet.,caramel,spirit cocktail,lobster meat,cachaca,orange
+319233,1,1,Daisy is looking impressed. Daisy is grimacing. Joy is listening. Which of them is most likely feeling sympathy?,Rob,Joy,Cliff,Daisy,Charity
+159044,0,0,"Which of the following is 3 centuries after 11:09 p.m. on September 7, 1954?","11:09 p.m. on September 7, 2254","8:09 p.m. on September 7, 1954","11:09 p.m. on September 7, 1957","11:09 p.m. on September 4, 1954","11:09 p.m. on September 7, 1654"
+263146,3,3,Duke bet Ginger that no human part is a knuckle. Ginger is a cow poke. Duke is a manager. Which of them won the bet?,retail sales clerk,secretary,short-order cook,cowpoke,manager
+323585,2,2,"If a Renault just passed its inspection, then the Renault has no issues with its?",CD player,ashtray,chassis,radar detector,sun roof
+261665,1,2,"In Dill town, you can only buy blooms at Rose's Store, and you can only buy herbs at Pepper's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Pepper's Store, and any time he is at Pepper's Store, she is at Carrot's Store. Basil is buying common wormwood. Where is Lily?",Cherry's Store,Pepper's Store,Carrot's Store,Rose's Store,Rosemary's Store
+319536,2,2,Rob is apologizing. Cliff is clapping. Daisy is whipping. Which of them is most likely feeling zest?,Rob,Charity,Cliff,Joy,Daisy
+294657,1,1,April missed a call at 4 a.m.. She returned it 2 hours later. When did she return the call?,1 a.m.,6 a.m.,2 p.m.,6 p.m.,8 p.m.
+263110,4,3,Duke bet Ginger that no political entity is a Stalk-eyed mud crab. Ginger is a basketball coach. Duke is a hydrocarbon production employee. Which of them won the bet?,teacher,cowboy,mobile ice cream vendor,hydrocarbon production employee,basketball coach
+318704,1,1,Joy was counseled by Charity. Who had the action done to them?,Cliff,Joy,advising,Daisy,Charity
+335668,2,2,"In Strange Town, you're only allowed to play a card game in the town square, you're only allowed to play a musical instrument in the graveyard, and you're only allowed to engage in politics in the forest. Daisy is playing a brass instrument. Where is Daisy?",the financial district,the campground,the graveyard,the forest,the town square
+261008,0,4,"In Dill town, you can only buy meat at Carrot's Store, and you can only buy herbs at Rose's Store. In a strange coincidence, any time Basil is at Carrot's Store, Lily is at Carrot's Store, and any time he is at Rose's Store, she is at Rosemary's Store. Basil is buying smooth coneflowers. Where is Lily?",Carrot's Store,Rose's Store,Pepper's Store,Cherry's Store,Rosemary's Store
+261953,3,0,"In Dill town, you can only buy herbs at Rose's Store, and you can only buy grain at Cherry's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Rosemary's Store, and any time he is at Cherry's Store, she is at Rose's Store. Basil is buying common wormwood. Where is Lily?",Rosemary's Store,Carrot's Store,Cherry's Store,Rose's Store,Pepper's Store
+328911,2,3,Pick the thing which is usually the slowest.,hot-air balloon,personal watercraft,cruise ship,parked car,steam locomotive
+270055,2,2,How many stomachs do deer have?,5,6,1,0,8
+260027,2,2,"Cherry needs beds, Xboxes, and bucks. She already has Xboxes and bucks. Where should she go?",butcher shop,bicycle shop,furniture store,fish market,drugstore
+189457,2,2,"Of these things, pick the one which is typically the biggest.",human,adult,Percheron horse,chest freezer,bicycle
+320819,1,0,Daisy is attempting to escape. Joy is opposing. Cliff is looking surprised. Which of them is most likely feeling surprise?,Cliff,Daisy,Rob,Charity,Joy
+296181,4,4,April missed a call at 8 p.m.. She returned it 1 hour later. When did she return the call?,8 p.m.,6 a.m.,5 p.m.,4 a.m.,9 p.m.
+214448,0,0,"Jennifer adheres to the Halal diet. When she came to dinner, she didn't eat ______?",ham,slice of bread,raspberry,Adams Pearmain apple,brown rice
+320361,3,3,Daisy is making a 'we're number one!' gesture. Rob is origami folding event. Charity is jesting. Which of them is most likely feeling peace?,Joy,Daisy,Charity,Rob,Cliff
+329181,0,2,"Of these things, pick the one which is typically fastest.",dump truck,Segway,dirt bike,riding mower,golf cart
+296269,0,0,April missed a call at 2 p.m.. She returned it 4 hours later. When did she return the call?,6 p.m.,3 p.m.,6 a.m.,12 a.m.,7 a.m.
+325809,2,2,"In U.S. summer, Joy visits the shipyard every day. In U.S. winter, Joy visits the botanical garden every day. Where will Joy go on December 5?",the shipyard,the forest,the botanical garden,the financial district,the park
+320440,0,0,Cliff is attempting to escape. Rob is looking unconvinced. Daisy is gritting one’s teeth. Which of them is most likely feeling frustration?,Daisy,Cliff,Charity,Rob,Joy
+336048,2,2,"In Strange Town, you're only allowed to attend entertainment events in the park, you're only allowed to play a musical instrument in the botanical garden, and you're only allowed to play a team sport in the theater district. Cliff is playing sabre fencing. Where is Cliff?",the town square,the theater district,the physical universe,the park,the forest
+264272,0,0,Fido is a human. How many arms does he have?,2,7,10,5,6
+328799,3,3,Which of these things is typically slowest?,B-52 bomber,F-16 fighting falcon,Formula 1 race car,starling,steam locomotive
+258883,2,2,"Cherry needs bike wheels, bone-in briskets, and chops. She already has chops and bone-in briskets. Where should she go?",confectionery,appliance store,bicycle shop,liquor store,office supply store
+189661,2,4,"Of these things, pick the one which isn't usually larger than any of the others.",Egyptian pyramid,house,private room,stadium,bedroom
+189373,0,0,Choose the event with the shortest duration.,applause,repairing aircraft,attending a music club,basketball game,home schooling
+189817,1,1,Which of the following isn't usually bigger than any of the others?,stadium,hall,school gymnasium,factory building,house
+214787,2,2,"Rosalyn follows the vegan diet program. When she came to dinner, she didn't eat ______?",produce,pickle,dairy product,cucumber,almond
+214957,3,3,"Jennifer adheres to the vegetarian diet program. When she came to dinner, she didn't eat ______?",chicken egg,fennel,white mushroom,red meat,vinegar
+320943,2,2,"In Yellow Town, every beauty shop is dull blue, every office supply shop is indigo, and every liquor store is dark greenish blue. Sapphire needs an office furniture that is also a cart. What color store could she get it at?",red thing,orange,indigo,dark teal blue,medium blue
+214427,1,1,Rosalyn is coming to your house for dinner. She follows a Halal diet. Pick the food or drink you couldn't serve to Rosalyn.,blueberry doughnut,Chateau Latour,boneless brisket,collard greens,pomegranate
+335949,2,2,"In Strange Town, you're only allowed to attend entertainment events in the campground, you're only allowed to engage in politics in the graveyard, and you're only allowed to play board games in the park. Rob is closing a border. Where is Rob?",the botanical garden,the campground,the graveyard,the park,the town square
+159061,1,1,Which of the following is 6 decades after 7:32 p.m. on the first of March 1971?,"7:32 p.m. on March 1, 1977","7:32 p.m. on March 1, 2031","7:32 p.m. on February 23, 1971","7:32 p.m. on March 1, 1911","1:32 p.m. on March 1, 1971"
+263369,3,3,Duke bet Ginger that no Indian food is an ancient civilization. Ginger is a mathematician. Duke is a teacher. Which of them won the bet?,doctor,mathematician,fast-food cook,teacher,retail sales clerk
+214129,3,1,People who follow a gluten free diet consume no ______.,raspberries,kaiser rolls,ripe oranges,french fries,yellowfin tuna
+196874,3,3,Writing the word “documentary” requires writing ______ letters.,4,9,7,11,3
+215008,3,3,It's too bad Bobby served ______. Everybody at the party follows the vegetarian diet program.,pumpkin,red grape,Frappuccino,fried chicken,Coke
+319104,4,1,Daisy is relaxing a muscle. Charity is expressing guilt. Cliff is holding still. Which of them is most likely feeling solemnity?,Joy,Cliff,Charity,Rob,Daisy
+189458,0,0,Which of these things is usually tinier than the others?,Wire Haired Dachshund,adult,oven,lectern,desk
+263233,2,2,Ginger bet Duke that no great spider crab is a porpoise. Ginger is a mathematician. Duke is a doorman. Which of them won the bet?,doorman,fast-food cook,mathematician,appraiser,short-order cook
+260071,1,1,"Cherry needs turkey legs, blueberries, and gardening shears. She already has turkey legs and blueberries. Where should she go?",fruits and vegetables market,lawn and garden store,farmer's market,fish market,cheese shop
+264210,0,0,"A person born on January 17, 2069 would most likely be a ______ on December 29, 2051.",not yet born,pre teenager,fiftysomething,fortysomething,dead organism
+263281,4,3,Ginger bet Duke that no U.S. city is a geopolitical entity. Ginger is a pediatrician. Duke is a schoolteacher. Which of them won the bet?,magician,plumber,baker,school teacher,pediatrician
+190082,4,4,Choose the event takes the least time.,attending university,live music show,eye exam,serving an airline passenger,changing a diaper
+336562,1,1,Daisy was succored by Joy. Daisy disappeared Joy. Who did something affecting Joy?,Joy,Daisy,Charity,Rob,Cliff
+320797,3,3,Daisy is expressing surprise. Charity is writing a fan letter. Joy is fidgeting. Which of them is most likely feeling being trapped?,Cliff,Charity,Rob,Joy,Daisy
+189843,2,2,Pick the one which is typically smaller than all the others.,side-by-side refrigerator-freezer,coffin,Borzoi,chest freezer,sandbox
+320062,1,1,Daisy is relaxing. Joy is expressing outrage. Cliff is concealing information. Which of them is most likely feeling at peace?,Charity,Daisy,Joy,Cliff,Rob
+295928,3,3,April missed a call at 9 a.m.. She returned it 4 hours later. When did she return the call?,9 p.m.,5 p.m.,10 p.m.,1 p.m.,6 a.m.
+263207,0,0,Ginger bet Duke that no fruit and vegetable food group is an educational organization. Ginger is a software developper. Duke is a circus clown. Which of them won the bet?,computer programmer,mobile ice cream vendor,secretary,stockbroker,circus clown
+295645,3,3,April missed a call at 12 a.m.. She returned it 12 hours later. When did she return the call?,5 p.m.,3 p.m.,9 a.m.,noon,1 p.m.
+189673,0,3,Pick the thing which isn't usually larger than any of the others.,file cabinet,cereal bowl,crib,computer mouse,cookie jar
+189369,1,3,Which of these is typically largest?,drinking bottle,baseball,glass jar,sitar,baseball glove
+294114,2,4,April received a letter on Saturday. She answered it 4 days later. On which day did she answer the letter?,Friday,Thursday,Monday,Sunday,Wednesday
+329186,1,1,Pick the one which is usually faster than the others.,Segway,Yak,giant sequoia,riding mower,golf cart
+189517,3,4,Pick the one which is usually bigger than the others.,disposable cigarette lighter,adult shrew,golf ball,french fry,baseball
+263212,1,1,Ginger bet Duke that no Tasmanian giant crab is an Orinoco goose. Ginger is a controller. Duke is a real estate agent. Which of them won the bet?,cowgirl,accountant,real estate agent,travel agent,basketball coach
+336036,2,2,"In Strange Town, you're only allowed to play board games in the town square, you're only allowed to engage in politics in the graveyard, and you're only allowed to play a team sport in the park. Daisy is attending election campaigning. Where is Daisy?",the campground,the town square,the graveyard,the park,the shipyard
+336394,4,2,"In Strange Town, you're only allowed to attend entertainment events in the shipyard, you're only allowed to play a musical instrument in the campground, and you're only allowed to play a team sport in the town square. Daisy is using a pigskin in football. Where is Daisy?",the shipyard,the forest,the town square,the botanical garden,the campground
+258838,3,3,"Cherry needs dolls, home security alarms, and fishing line. She already has fishing line and home security alarms. Where should she go?",electronics store,appliance store,bookstore,toy store,butcher shop
+320222,3,3,Rob is expressing covetousness. Charity is supporting. Daisy is warring. Which of them is most likely feeling empathy?,Rob,Joy,Daisy,Charity,Cliff
+320112,1,1,Joy is expressing nervousness. Daisy is putting an arm around someone. Cliff is looking confused. Which of them is most likely feeling affection?,Charity,Daisy,Joy,Cliff,Rob
+320759,2,2,Charity is looking thoughtful. Rob is saluting. Daisy is expressing contrition. Which of them is most likely feeling esteem?,Joy,Charity,Rob,Cliff,Daisy
+320390,1,1,Cliff is waving a flag. Daisy is expressing defeat. Daisy is waiting. Which of them is most likely feeling nationalism?,Joy,Cliff,Daisy,Charity,Rob
+328788,0,1,"Of these things, pick the one which is typically the slowest.",dirt bike,Segway,Boeing 747,golf cart,steam locomotive
+223812,0,0,______ is normally greater in size than an amateur astronomer.,a shack,a dog,a Chihuahua,an insect,a golf ball
+258898,3,3,"Cherry needs wine, lip gloss, and liquorice. She already has liquorice and lip gloss. Where should she go?",electronics store,art supply store,grocery store,liquor store,lawn and garden store
+263391,2,2,Duke bet Ginger that no orange juice is coffee. Ginger is a doorman. Duke is a troop. Which of them won the bet?,real estate agent,mobile ice cream vendor,soldier,doorman,magician
+263324,0,0,Duke bet Ginger that no sea is a for-profit organization. Ginger is a singer. Duke is an investigator. Which of them won the bet?,researcher,priest,singer,assistant professor,mobile ice cream vendor
+320639,3,0,Charity is opening champagne. Cliff is demonstrating. Daisy is booing. Which of them is most likely feeling dissatisfaction?,Daisy,Charity,Joy,Cliff,Rob
+295913,3,3,April missed a call at 5 p.m.. She returned it 4 hours later. When did she return the call?,5 p.m.,2 p.m.,8 a.m.,9 p.m.,1 a.m.
+329278,3,3,Which of these would be the fastest?,cruise ship,Segway,tractor,Mexican free-tailed bat,personal watercraft
+320665,4,4,Joy is assisting. Charity is expressing defeat. Rob is flirting. Which of them is most likely feeling pity?,Rob,Daisy,Cliff,Charity,Joy
+296123,0,0,April missed a call at 3 p.m.. She returned it 6 hours later. When did she return the call?,9 p.m.,9 a.m.,11 a.m.,12 a.m.,8 a.m.
+289454,4,4,______ typically last a few seconds.,Febuary 22nds,August tenths,September 23rds,November eighths,turnings on an engine
+241170,1,1,What is a lyre smaller than?,grapefruit,Multi-colored Cocker Spaniel,bowl,pocket watch,disposable cigarette lighter
+329065,0,3,Pick the thing which is typically the fastest.,Ford Mustang,parked car,personal watercraft,bullet train,tractor
+319422,2,2,Joy is shrugging. Cliff is ruminating. Rob is taking first steps. Which of them is most likely feeling wistfulness?,Daisy,Joy,Cliff,Rob,Charity
+329247,1,2,Which of these isn't usually slower than any of the others?,cruise ship,dump truck,Boeing 747,sled,personal watercraft
+324709,0,0,"In U.S. autumn, Cliff visits the town square every day. In U.S. winter, Cliff visits the campground every day. Where will Cliff go on February 10?",the campground,the graveyard,the theater district,the town square,the forest
+263606,4,4,Duke bet Ginger that no transport is a cocktail. Ginger is a kindergarten teacher. Duke is a doorman. Which of them won the bet?,drummer,plumber,kindergarten teacher,short-order cook,doorman
+336140,0,2,"In Strange Town, you're only allowed to engage in politics in the park, you're only allowed to play musical instruments in the botanical garden, and you're only allowed to play a card game in the forest. Rob is playing poker. Where is Rob?",the botanical garden,the park,the forest,the campground,the town square
+336106,2,0,"In Strange Town, you're only allowed to play a card game in the park, you're only allowed to attend entertainment events in the shipyard, and you're only allowed to play a team sport in the theater district. Charity is playing of yachting sports event. Where is Charity?",the theater district,the town square,the shipyard,the park,the graveyard
+259865,2,2,"Cherry needs first aid supplies, garden trowels, and 19 inch television sets. She already has 19 inch television sets and first aid supplies. Where should she go?",sporting goods store,art supply store,lawn and garden store,pet store,flower shop
+300457,0,3,Charity rescued Will. Rob ridiculed Will. Who made Will feel embarrassed?,Charity,Joy,Cliff,Rob,Daisy
+262870,3,3,"In Dill town, you can only buy flesh at Rose's Store, and you can only buy herbs at Cherry's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Rose's Store, and any time he is at Cherry's Store, she is at Carrot's Store. Basil is buying bluefin tuna. Where is Lily?",Cherry's Store,Carrot's Store,Pepper's Store,Rose's Store,Rosemary's Store
+214350,0,0,Rosalyn is coming to your house for dinner. She is an adherent of the Halal diet. What should you not serve her?,anisetta,apricot,fried rice,banana split,hot cereal
+313223,2,2,Charity criticised Cliff. What was the action?,honoring,Cliff,criticising,Charity,excoriating
+264022,1,1,Ginger bet Duke that no machine tool is a peak. Ginger is a migrant farm worker. Duke is a basketball coach. Which of them won the bet?,basketball coach,migrant farm worker,retail sales clerk,soldier,drug dealer
+294291,3,1,April received a letter in June. She answered it 3 months later. When did she answer the letter?,November,September,May,January,December
+324858,0,2,"In U.S. autumn, Joy visits the theater district every day. In U.S. winter, Joy visits the town square every day. Where will Joy go on February 19?",the theater district,the park,the town square,the forest,the shipyard
+189470,0,0,Which of the following is usually smaller than the others?,Vizsla,Egyptian pyramid,coffin,clothes dryer,cupboard
+319187,3,3,Joy is creating a conceptual work. Rob is origami. Rob is thinking. Which of them is most likely feeling inspiration?,Daisy,Charity,Cliff,Joy,Rob
+193459,0,1,Writing the word “republic” requires writing ______ letters.,11,8,9,10,7
+297124,2,3,"Only females who like mangos are allowed on the basketball team. Only males who like prunes are allowed on the soccer team. Daisy's sister, Billie, likes all ocher fruits. Which team could Billie join?",the rugby team,the baseball team,the soccer team,the basketball team,the hockey team
+194219,2,0,The word “jellyfish” is written with ______ letters.,9,8,6,11,5
+296968,1,1,"Only females who like boysenberries are allowed on the basketball team. Only males who like bananas are allowed on the rugby team. Daisy's wife, Billie, likes all maroon fruits. Which team could Billie join?",the soccer team,the basketball team,the hockey team,the baseball team,the rugby team
+297159,3,3,"Only males who like ripe mangos are allowed on the soccer team. Only females who like red grapes are allowed on the basketball team. Daisy's brother-in-law, Billie, likes all sandarach fruits. Which team could Billie join?",the hockey team,the rugby team,the basketball team,the soccer team,the baseball team
+295652,4,4,April missed a call at 8 a.m.. She returned it 1 hour later. When did she return the call?,noon,4 a.m.,8 p.m.,11 p.m.,9 a.m.
+264296,4,1,"A person born on December 16, 1910 would most likely be a ______ on the ninth of September 1926.",infant,teenager,preschool-age child,not yet born,child
+158858,4,4,"Which of the following is 1 century after 8:35 p.m. on December 18, 2019?",9:35 p.m. on December 18,"7:35 p.m. on December 18, 2019","8:35 p.m. on December 18, 2009","8:34 p.m. on December 18, 2019","8:35 p.m. on December 18, 2119"
+336283,2,2,Charity hypnotized Daisy. Daisy got Melody. Who did something affecting Daisy?,Rob,Joy,Charity,Cliff,Daisy
+262186,4,1,"In Dill town, you can only buy office products at Pepper's Store, and you can only buy fruits at Rose's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Rosemary's Store, and any time he is at Rose's Store, she is at Pepper's Store. Basil is buying staplers. Where is Lily?",Carrot's Store,Rosemary's Store,Rose's Store,Cherry's Store,Pepper's Store
+263909,1,1,Duke bet Ginger that no naval ship base is an Andean goose. Ginger is a batter. Duke is an ornithologist. Which of them won the bet?,drug dealer,ornithologist,mobile ice cream vendor,batter,hydrocarbon production employee
+300875,4,4,Rob lampooned Will. Joy were nice Will. Who made Will feel embarrassed?,Charity,Daisy,Cliff,Joy,Rob
+319283,1,1,Charity is expressing nostalgia. Daisy is holding still. Joy is Middle Eastern dancing. Which of them is most likely feeling passion?,Daisy,Joy,Cliff,Charity,Rob
+324662,4,2,"In U.S. summer, Rob visits the forest every day. In U.S. autumn, Rob visits the botanical garden every day. Where will Rob go on July 8?",the financial district,the theater district,the forest,the town square,the botanical garden
+335906,3,1,"In Strange Town, you're only allowed to play board games in the botanical garden, you're only allowed to play musical instruments in the shipyard, and you're only allowed to play cards in the theater district. Charity is playing Spades. Where is Charity?",the botanical garden,the theater district,the town square,the shipyard,the financial district
+263449,0,2,Ginger bet Duke that no computer is an electronic device. Ginger is a farmer. Duke is a computer programmer. Which of them won the bet?,farmer,cowboy,computer programmer,migrant farm worker,chemist
+325375,1,2,"In U.S. spring, Cliff visits the forest every day. In U.S. summer, Cliff visits the town square every day. Where will Cliff go on March 22?",the financial district,the town square,the forest,the shipyard,the graveyard
+313420,1,1,Cliff was backed by Joy. Who performed the action?,Charity,Joy,Daisy,endorsing,Cliff
+328533,1,1,Which of the following is typically slower than all the others?,F-16 fighting falcon,walrus,B-52 bomber,hot-air balloon,bullet train
+263127,0,1,Duke bet Ginger that no duck is a naval ship base. Ginger is a comic. Duke is a secretary. Which of them won the bet?,comedian,secretary,teacher,contract killer,plumber
+248238,1,1,Susanna asked Dana how long uses of trumpets in live music takes. What did he tell her?,between 3 and 18 weeks,a few hours,1 month,12 months,between 0.1 and 48 hours
+191722,1,1,Choose the event takes less time than all the others.,babysitting,gargling,sewing with a sewing machine,nuptials,repairing aircraft
+320574,4,4,Rob is jerking. Joy is wringing. Rob is expressing jealousy. Which of them is most likely feeling nervousness?,Rob,Cliff,Charity,Daisy,Joy
+294871,3,3,April missed a call at 7 p.m.. She returned it 10 hours later. When did she return the call?,7 a.m.,2 a.m.,11 p.m.,5 a.m.,10 p.m.
+329558,0,0,Pick the thing which is usually faster than the others.,pirana,riding mower,parked car,bible,Segway
+290196,1,0,______ typically last tens of minutes.,carolings,measles infections,January seconds,May 28ths,December tenths
+323517,3,3,"If a Mercedes automobile just passed its inspection, then Mercedes automobile has no need concerning its?",radar system,radar detector,ashtray,steering mechanism,DVD player
+193539,3,1,The word “lens” has ______ letters?,3,4,8,11,10
+297035,2,2,"Only males who like pineapples are allowed on the hockey team. Only females who like pears are allowed on the baseball team. Daisy's uncle, Billie, likes all gold-colored fruits. Which team could Billie join?",the soccer team,the rugby team,the hockey team,the basketball team,the baseball team
+259919,2,2,"Cherry needs face powder, limekiln, and picnic hams. She already has face powder and limekiln. Where should she go?",office supply store,butcher shop,grocery store,bait and tackle shop,cosmetics and beauty supply store
+294143,3,0,April received a letter on Friday. She answered it 7 days later. On which day did she answer the letter?,Friday,Tuesday,Thursday,Saturday,Sunday
+294666,3,3,April missed a call at 11 p.m.. She returned it 2 hours later. When did she return the call?,4 a.m.,2 a.m.,6 a.m.,1 a.m.,7 a.m.
+294684,0,1,April missed a call at 11 p.m.. She returned it 8 hours later. When did she return the call?,6 a.m.,7 a.m.,5 p.m.,8 a.m.,1 a.m.
+328498,2,2,Pick the thing which is typically slower than all the others.,steam locomotive,personal watercraft,jellyfish,sled,Porsche 911 Series
+263693,1,1,Duke bet Ginger that no a for-profit organization is chocolate. Ginger is a cattleman. Duke is a banker. Which of them won the bet?,cowboy,banker,dairy worker,chemist,maid
+319725,4,4,Charity is bowing. Joy is thinking. Daisy is expressing a dislike. Which of them is most likely feeling pride?,Rob,Cliff,Daisy,Joy,Charity
+323537,4,4,"If a Maserati just passed its inspection, then the Maserati has no functional issues with its?",radar system,GPS receiver,CD player,ashtray,driver's side
+261200,1,0,"In Dill town, you can only buy blooms at Pepper's Store, and you can only buy fruits at Rose's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Rosemary's Store, and any time he is at Rose's Store, she is at Carrot's Store. Basil is buying dandelion flowers that are anatomical parts of some particular fellow that is engaging in of discussing that is engaging in of making something. Where is Lily?",Rosemary's Store,Carrot's Store,Rose's Store,Pepper's Store,Cherry's Store
+159149,2,2,Which of the following is 2 minutes after 5:37 p.m. on day number 30 in April 1975?,"7:37 p.m. on April 30, 1975","5:37 p.m. on April 30, 1775","5:39 p.m. on April 30, 1975","5:35 p.m. on April 30, 1975","5:37 p.m. on April 30, 2175"
+223921,3,3,Staplers are small compared to ______.,microscopic objects,strings,sand particles,three bath dwellings,ants
+336506,1,1,Cliff was denigrated by Rob. Charity pursued Rob. Who did something affecting Rob?,Rob,Charity,Joy,Daisy,Cliff
+193395,3,0,Writing the word “bat” requires writing ______ letters.,3,9,8,6,5
+319571,3,3,Joy is sharing. Charity is looking embarrassed. Cliff is splashing. Which of them is most likely feeling camaraderie?,Daisy,Cliff,Rob,Joy,Charity
+214619,0,0,Calvin follows a Kosher diet. Which of these would he not want to eat or drink?,shrimp,pilsner,pickle,Cointreau,crème de cacao
+295052,1,1,April missed a call at 4 p.m.. She returned it 7 hours later. When did she return the call?,9 p.m.,11 p.m.,2 p.m.,5 p.m.,3 a.m.
+319403,2,4,Daisy is dancing by humans. Joy is expressing certainty. Cliff is sneering. Which of them is most likely feeling repulsion?,Charity,Rob,Daisy,Joy,Cliff
+320355,2,2,Rob is expressing a certainty. Joy is giving a reproachful look. Charity is extending hand to shake. Which of them is most likely feeling companionship?,Daisy,Cliff,Charity,Joy,Rob
+263125,3,3,Ginger bet Duke that no horse is a spare rib. Ginger is a fisherman. Duke is a barkeep. Which of them won the bet?,firefighter,assistant professor,contract killer,fisherman,bartender
+194103,3,3,How many letters are in the word “orientation”?,3,4,8,11,5
+264013,3,3,Duke bet Ginger that no rough-skinned newt is a military system. Ginger is a short order cook. Duke is a travel agent. Which of them won the bet?,stockbroker,firefighter,astronomer,travel agent,short-order cook
+160589,3,3,"Which of the following is 3 days after 0:30 p.m. on November 22, 1963?","0:30 p.m. on November 22, 1993","0:30 p.m. on November 19, 1960","0:30 p.m. on November 22, 1966","0:30 p.m. on November 25, 1963","9:30 a.m. on November 22, 1963"
+290430,1,2,What typically lasts between 5 and 10 minutes?,September 27th,waking up,performing a manual breast examination,building construction,October twelfth
+263703,0,0,Duke bet Ginger that no cave is a squirrel monkey. Ginger is an actor. Duke is a migrant farm worker. Which of them won the bet?,migrant farm worker,academic,banker,actor,psychoanalyst
+297012,3,3,"Only females who like mangos are allowed on the soccer team. Only males who like pomegranates are allowed on the hockey team. Daisy's girlfriend, Billie, likes all buff fruits. Which team could Billie join?",the hockey team,the baseball team,the basketball team,the soccer team,the rugby team
+336227,4,4,"In Strange Town, you're only allowed to attend entertainment events in the graveyard, you're only allowed to engage in politics in the shipyard, and you're only allowed to play a team sport in the financial district. Daisy is playing Australian football. Where is Daisy?",the park,the campground,the shipyard,the financial district,the physical universe
+235685,3,3,What is larger than a German Shepherd?,netbook,poodle,Maltese,blue whale,apple
+329123,3,2,Pick the thing which is typically the fastest.,parked car,golf cart,cruise ship,Segway,tractor
+297199,0,2,"Only males who like watermelons are allowed on the baseball team. Only females who like figs are allowed on the basketball team. Daisy's girlfriend, Billie, likes all brown fruits. Which team could Billie join?",the baseball team,the rugby team,the basketball team,the hockey team,the soccer team
+319620,3,3,Charity is opening champagne. Rob is acting violently. Cliff is raising one’s arms in victory. Which of them is most likely feeling abhorrence?,Charity,Daisy,Cliff,Rob,Joy
+297065,2,2,"Only females who like pineapples are allowed on the soccer team. Only males who like pears are allowed on the hockey team. Daisy's foster daughter, Billie, likes all gold-colored fruits. Which team could Billie join?",the baseball team,the basketball team,the soccer team,the rugby team,the hockey team
+319924,2,2,Daisy is expressing regret. Rob is offering. Cliff is discharging an obligation. Which of them is most likely feeling generous-emotion?,Cliff,Daisy,Rob,Charity,Joy
+335970,3,3,"In Strange Town, you're only allowed to play board games in the park, you're only allowed to attend entertainment events in the graveyard, and you're only allowed to play musical instruments in the shipyard. Joy is attending comedy routines. Where is Joy?",the shipyard,the financial district,the campground,the graveyard,the park
+320280,4,4,Charity is hugging. Daisy is expressing sadness. Rob is speaking clearly. Which of them is most likely feeling audacity?,Charity,Daisy,Cliff,Joy,Rob
+263601,3,3,Ginger bet Duke that no U.S. state is an artifact used for communication. Ginger is a prime minister. Duke is a comedienne. Which of them won the bet?,assistant professor,comedian,travel agent,Prime Minister,politician
+320386,3,0,Charity is taking a victory lap. Joy is apologizing. Daisy is hugging. Which of them is most likely feeling feeling of celebration?,Charity,Cliff,Daisy,Joy,Rob
+319394,0,0,Cliff is raising arms in victory. Charity is Latin dancing. Rob is offering. Which of them is most likely feeling generous-emotion?,Rob,Charity,Cliff,Joy,Daisy
+189544,1,0,Which of the following isn't usually bigger than any of the others?,shot glass,cantaloupe,cookie jar,bowl,wine bottle
+215014,0,0,It's too bad Bobby served ______. Everybody at the party follows the vegetarian diet.,chicken salad,African oil palm fruit,flapjack,psilocybin mushroom,sauerkraut
+295622,1,1,April missed a call at 1 a.m.. She returned it 6 hours later. When did she return the call?,noon,7 a.m.,3 a.m.,3 p.m.,6 p.m.
+261260,0,0,"In Dill town, you can only buy blooms at Pepper's Store, and you can only buy office products at Rose's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Rose's Store, and any time he is at Rose's Store, she is at Cherry's Store. Basil is buying irises. Where is Lily?",Rose's Store,Pepper's Store,Carrot's Store,Rosemary's Store,Cherry's Store
+300525,3,3,Charity lampooned Will. Daisy rescued someone Will. Who made Will feel grateful?,Joy,Cliff,Charity,Daisy,Rob
+289783,4,4,What typically lasts 24 hours?,singing,making butter,AIDS,nuptials,January tenth
+297175,0,0,"Only males who like apples are allowed on the basketball team. Only females who like mangos are allowed on the soccer team. Daisy's daughter-in-law, Billie, likes all amber fruits. Which team could Billie join?",the soccer team,the basketball team,the hockey team,the baseball team,the rugby team
+328634,1,1,"Of these things, pick the one which is usually slower than the others.",Formula 1 race car,bible,steam locomotive,go cart,riding mower
+320606,0,0,Rob is expressing humiliation. Joy is taking first steps. Daisy is comforting. Which of them is most likely feeling companionship?,Daisy,Charity,Joy,Rob,Cliff
+319170,4,4,Cliff is cogitating. Joy is expressing animosity. Daisy is shaking hands. Which of them is most likely feeling camaraderie?,Cliff,Joy,Rob,Charity,Daisy
+336188,2,2,"In Strange Town, you're only allowed to play a team sport in the campground, you're only allowed to play musical instruments in the graveyard, and you're only allowed to play cards in the town square. Melody is playing violoncello. Where is Melody?",the campground,the town square,the graveyard,the financial district,the shipyard
+320091,2,2,Rob is trying to escape. Daisy is gritting one’s teeth. Charity is discharging an obligation. Which of them is most likely feeling resolve?,Joy,Cliff,Daisy,Rob,Charity
+329438,3,3,Which of the following would be the slowest?,Boeing 747,sled,bullet train,walrus,Formula 1 race car
+165035,4,4,"Which of the following is 7 years after 11:09 p.m. on September 7, 1954?","11:09 p.m. on August 31, 1947","11:09 p.m. on September 7, 1254","11:09 p.m. on September 7, 1947","11:09 p.m. on August 31, 1954","11:09 p.m. on September 7, 1961"
+296185,0,0,April missed a call at 3 a.m.. She returned it 7 hours later. When did she return the call?,10 a.m.,7 a.m.,8 a.m.,1 a.m.,3 p.m.
+269542,2,2,Horses have ______ brains.,0,10,1,4,7
+320422,3,2,Rob is giving someone something. Cliff is hitting someone. Charity is jumping up and down. Which of them is most likely feeling hate?,Daisy,Joy,Cliff,Rob,Charity
+324829,2,1,"In U.S. spring, Daisy visits the shipyard every day. In U.S. autumn, Daisy visits the forest every day. Where will Daisy go on October 7?",the campground,the forest,the shipyard,the financial district,the town square
+263687,2,2,Duke bet Ginger that no garter snake is a for-profit organization. Ginger is a percussion player. Duke is a librarian. Which of them won the bet?,travel agent,actor,librarian,drummer,CIA agent
+263347,3,3,Duke bet Ginger that no plow is a single car garage. Ginger is a babysiter. Duke is a baker. Which of them won the bet?,babysiter,fast-food cook,ornithologist,baker,accountant
+320344,4,4,Charity is shaking a fist. Rob is complimenting. Charity is avoiding participation in social activities. Which of them is most likely feeling admiration?,Joy,Daisy,Charity,Cliff,Rob
+160223,1,0,Which of the following is 9 days after 1:15 a.m. on day number 6 in June 1944?,"1:15 a.m. on June 15, 1944","1:15 a.m. on May 28, 1944","1:15 a.m. on June 6, 1044","1:15 a.m. on June 6, 2034","1:15 a.m. on June 6, 2844"
+263480,2,2,Duke bet Ginger that no Steppe Polecat is chocolate. Ginger is an actress. Duke is a psychoanalyst. Which of them won the bet?,pediatrician,construction worker,psychoanalyst,actor,researcher
+325229,4,4,"In U.S. winter, Rob visits the forest every day. In U.S. summer, Rob visits the theater district every day. Where will Rob go on August 17?",the park,the forest,the graveyard,the financial district,the theater district
+324619,3,0,"In U.S. spring, Rob visits the theater district every day. In U.S. autumn, Rob visits the park every day. Where will Rob go on April 20?",the theater district,the financial district,the campground,the park,the shipyard
+295811,4,4,April missed a call at 6 p.m.. She returned it 11 hours later. When did she return the call?,9 p.m.,10 a.m.,1 p.m.,3 p.m.,5 a.m.
+319712,2,2,Cliff is hanging one’s head. Charity is expressing being trapped. Rob is wishing someone well. Which of them is most likely feeling diffidence?,Charity,Joy,Cliff,Rob,Daisy
+263308,3,3,Duke bet Ginger that no Pea crab is a squirrel monkey. Ginger is a lead guitarist. Duke is a cowhand. Which of them won the bet?,lifeguard,pediatrician,pitcher,cowpoke,lead guitarist
+319895,2,2,"In Brown Town, every bakery is blue green, every drugstore is dull reddish brown, and every cheese shop is royal blue. Ebony needs Swiss. What color store could she get it at?",hunter green,green,royal blue,dull reddish brown,blue
+263500,1,0,Duke bet Ginger that no American is a taxi driver. Ginger is a vocalist. Duke is a percussion player. Which of them won the bet?,singer,drummer,short-order cook,Prime Minister,bartender
+320915,2,2,"In Blue Town, every bookstore is white, every cosmetics and beauty supply store is light aqua blue, and every sporting goods shop is dark hunter green. Olive needs a volleyball. What color store could she get it at?",light turquoise blue,pastel green,dark hunter green,white,blue
+320294,0,0,Joy is acting violently. Cliff is remembering. Rob is jerking. Which of them is most likely feeling homesickness?,Cliff,Charity,Rob,Joy,Daisy
+263420,2,2,Ginger bet Duke that no match is an appetizer. Ginger is a bank teller. Duke is a real estate agent. Which of them won the bet?,basketball coach,real estate agent,bank teller,travel agent,architect
+214359,2,2,Calvin only eats what is allowed by the Halal diet. Which of these would he not be willing to eat?,Romano cheese,fresh chili,pale lager,unleavened bread,serrano pepper
+324852,4,4,"In U.S. autumn, Cliff visits the graveyard every day. In U.S. summer, Cliff visits the financial district every day. Where will Cliff go on June 17?",the park,the graveyard,the shipyard,the town square,the financial district
+259229,1,1,"Cherry needs top tubes, bats, and broccolis. She already has bats and top tubes. Where should she go?",shoe store,farmer's market,appliance store,cosmetics and beauty supply store,butcher shop
+243521,0,0,A cupboard is normally smaller in size than ______.,a single-family residence,a poodle,an Old English Sheepdog,a deer,a desk
+300996,3,3,Daisy insulted Will. Cliff toasted Will. Who made Will feel happy?,Charity,Rob,Daisy,Cliff,Joy
+258848,0,0,"Cherry needs lobsters, packaged breakfast food, and Jack cheese. She already has Jack cheese and packaged breakfast food. Where should she go?",fish market,drugstore,lawn and garden store,sporting goods store,toy store
+263429,4,4,Ginger bet Duke that no angel shark is a pit. Ginger is a cattleman. Duke is a soldier. Which of them won the bet?,academic,school teacher,soldier,fisherman,cowboy
+320374,4,2,Joy is expressing shock. Rob is shaking hands. Cliff is skinny dipping. Which of them is most likely feeling good will?,Joy,Charity,Rob,Daisy,Cliff
+335838,1,1,"In Strange Town, you're only allowed to engage in politics in the financial district, you're only allowed to play a musical instrument in the campground, and you're only allowed to play board games in the park. Melody is playing clarinet. Where is Melody?",the forest,the campground,the park,the financial district,the graveyard
+320554,2,2,Charity is spitting out. Charity is thinking. Joy is groaning. Which of them is most likely feeling anguish?,Cliff,Daisy,Joy,Charity,Rob
+262213,3,3,"In Dill town, you can only buy blossoms at Rose's Store, and you can only buy herbs at Rosemary's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Carrot's Store, and any time he is at Rosemary's Store, she is at Rose's Store. Basil is buying violets. Where is Lily?",Cherry's Store,Rosemary's Store,Pepper's Store,Carrot's Store,Rose's Store
+269726,4,4,Fido is a beetle. How many respiratory systems does he have?,6,7,0,10,1
+294233,2,1,April received a letter in June. She answered it 9 months later. When did she answer the letter?,September,March,January,December,February
+259962,2,2,"Cherry needs envelopes, picnic hams, and hairspray. She already has envelopes and hairspray. Where should she go?",toy store,clothing store,grocery store,cosmetics and beauty supply store,fruits and vegetables market
+263284,2,2,Duke bet Ginger that no landmass is a sidecar cocktail. Ginger is a barkeeper. Duke is a real estate broker. Which of them won the bet?,farmer,kindergarten teacher,real estate agent,bartender,manager
+189618,2,4,Pick the thing which is usually larger than the others.,microwave oven,built-in oven,mixing bowl,oven,room dedicated to activities of a certain sort
+329952,4,4,Which of these isn't usually slower than any of the others?,tractor,golf cart,personal watercraft,cruise ship,Mexican free-tailed bat
+262961,2,2,"In Dill town, you can only buy flesh at Pepper's Store, and you can only buy whole grains at Cherry's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Cherry's Store, and any time he is at Cherry's Store, she is at Cherry's Store. Basil is buying whole grains. Where is Lily?",Carrot's Store,Rosemary's Store,Cherry's Store,Rose's Store,Pepper's Store
+320184,0,0,Rob is blowing a kiss. Daisy is biting one’s fingernails. Daisy is expressing nostalgia. Which of them is most likely feeling charm?,Rob,Charity,Cliff,Daisy,Joy
+294720,3,0,April missed a call at 3 p.m.. She returned it 10 hours later. When did she return the call?,1 a.m.,7 a.m.,8 a.m.,2 a.m.,8 p.m.
+329736,1,1,Which of the following is typically fastest?,parked car,Rat Terrier,jellyfish,skeleton,scaly anteater
+319499,2,2,Rob is booing. Cliff is religious activity. Charity is expressing triumph. Which of them is most likely feeling piousness?,Daisy,Charity,Cliff,Rob,Joy
+259606,0,0,"Cherry needs eyeliner, color televisions, and men's dress shoes. She already has eyeliner and men's dress shoes. Where should she go?",appliance store,bakery,furniture store,grocery store,farmer's market
+335776,1,1,"In Strange Town, you're only allowed to play cards in the graveyard, you're only allowed to attend entertainment events in the botanical garden, and you're only allowed to play a team sport in the town square. Joy is attending movie showing. Where is Joy?",the graveyard,the botanical garden,the town square,the park,the campground
+319175,3,3,Charity is shaking one’s head. Daisy is flirting. Charity is Latin dancing. Which of them is most likely feeling physical attraction?,Cliff,Joy,Rob,Daisy,Charity
+325002,1,1,"In U.S. winter, Charity visits the graveyard every day. In U.S. autumn, Charity visits the shipyard every day. Where will Charity go on October 4?",the theater district,the shipyard,the graveyard,the campground,the botanical garden
+329025,0,0,Which of these would usually be slowest?,peregrine falcon,bullet train,Boeing 747,hot-air balloon,B-52 bomber
+335999,2,0,"In Strange Town, you're only allowed to play board games in the town square, you're only allowed to attend entertainment events in the shipyard, and you're only allowed to engage in politics in the forest. Joy is #$PlayingChess whose Device Type Used includes computers. Where is Joy?",the town square,the financial district,the shipyard,the forest,the park
+320384,2,2,Joy is taking first steps. Rob is concealing information. Charity is raising arms in victory. Which of them is most likely feeling guilt?,Daisy,Charity,Rob,Cliff,Joy
+329378,4,2,Which of these things would be the fastest?,Porsche 911 Series,go cart,B-52 bomber,golf cart,Boeing 747
+336374,3,4,"In Strange Town, you're only allowed to play board games in the town square, you're only allowed to play a musical instrument in the graveyard, and you're only allowed to engage in politics in the campground. Rob is playing Yahtzee. Where is Rob?",the campground,the financial district,the forest,the graveyard,the town square
+197246,2,2,You write the word “gerbil” with ______ letters.,7,11,6,3,8
+262555,4,3,"In Dill town, you can only buy blooms at Rosemary's Store, and you can only buy office products at Cherry's Store. In a strange coincidence, any time Basil is at Rosemary's Store, Lily is at Rosemary's Store, and any time he is at Cherry's Store, she is at Cherry's Store. Basil is buying magic markers. Where is Lily?",Rose's Store,Pepper's Store,Carrot's Store,Cherry's Store,Rosemary's Store
+300610,4,4,Daisy denigrated Will. Charity rooted Will. Who made Will feel grateful?,Cliff,Rob,Daisy,Joy,Charity
+296259,0,0,April missed a call at 10 p.m.. She returned it 4 hours later. When did she return the call?,2 a.m.,2 p.m.,4 a.m.,8 a.m.,11 a.m.
+263635,4,4,Ginger bet Duke that no cocktail is a naval ship base. Ginger is a drug dealer. Duke is a short order cook. Which of them won the bet?,pediatrician,manager,banker,short-order cook,drug dealer
+294508,2,3,April missed a call at 8 p.m.. She returned it 8 hours later. When did she return the call?,5 a.m.,5 p.m.,1 a.m.,4 a.m.,1 p.m.
+296124,3,3,April missed a call at 2 p.m.. She returned it 2 hours later. When did she return the call?,1 a.m.,6 p.m.,5 a.m.,4 p.m.,2 p.m.
+320265,2,0,Rob is flirting. Joy is gambling. Daisy is expressing awe. Which of them is most likely feeling audacity?,Joy,Charity,Rob,Daisy,Cliff
+143550,1,1,What comes after 4 p.m.?,Tuesday,5 p.m.,9 a.m.,9 p.m.,1 p.m.
+259224,0,0,"Cherry needs cauliflower, toys market category, and aspirin. She already has cauliflower and toys market category. Where should she go?",drugstore,cheese shop,confectionery,fruits and vegetables market,cosmetics and beauty supply store
+189681,0,0,Pick the one which is typically smallest.,Leporidae,wicker basket,manger,suitcase,trash can
+319631,0,0,Daisy is winking. Joy is founding of a country celebration. Cliff is making an effort to make friends. Which of them is most likely feeling patriotism?,Joy,Charity,Daisy,Cliff,Rob
+263971,3,3,Duke bet Ginger that no airport is a Bed bug. Ginger is a fieldhand. Duke is a priest. Which of them won the bet?,cowgirl,plumber,farm worker,priest,magician
+319699,4,4,Daisy is giving the thumbs-up sign. Daisy is reacting in conversation with frustration. Joy is designing. Which of them is most likely feeling optimism?,Charity,Rob,Daisy,Cliff,Joy
+301051,2,2,Rob repudiated Will. Charity acclaimed Will. Who made Will feel proud?,Cliff,Rob,Charity,Daisy,Joy
+296126,4,4,April missed a call at 3 a.m.. She returned it 12 hours later. When did she return the call?,11 a.m.,noon,9 p.m.,5 p.m.,3 p.m.
+294533,0,1,April missed a call at 10 p.m.. She returned it 5 hours later. When did she return the call?,2 a.m.,3 a.m.,7 p.m.,8 a.m.,4 a.m.
+259462,0,0,"Cherry needs lettuce, culinary vegetables, and paper. She already has lettuce and paper. Where should she go?",grocery store,toy store,cosmetics and beauty supply store,liquor store,drugstore
+182402,1,1,"Which of the following is 10 decades after 5:05 p.m. on April 24, 1892?","5:05 p.m. on April 24, 892","5:05 p.m. on April 24, 1992","4:55 p.m. on April 24, 1892","3:05 a.m. on April 25, 1892","5:05 p.m. on April 14, 1892"
+190119,0,0,Pick the thing which isn't usually smaller than any of the others.,galley,grandfather clock,cow,ping-pong table,bed
+296205,2,2,April missed a call at 10 p.m.. She returned it 6 hours later. When did she return the call?,1 a.m.,2 p.m.,4 a.m.,6 p.m.,1 p.m.
+320021,2,1,"In Yellow Town, every furniture store is bright aqua, every drugstore is reddish yellow, and every bait and tackle shop is pale yellowish pink. Tawny needs a bed. What color store could she get it at?",pale peach,bright aqua green,yellowish orange,green,orange
+189788,3,3,"Of these things, pick the one which is usually smaller than the others.",household kitchen,house master bedroom,factory building,bedroom closet,house
+319855,4,2,"In Blue Town,, every liquor store is dull blue violet, every toy store is peach, and every bait and tackle shop is iron oxide red. Olive needs tequila. What color store could she get it at?",brown,red oxide,bright violet,green,peach
+319754,2,2,Daisy is tap dancing. Charity is expressing excitement. Rob is expressing worry. Which of them is most likely feeling fun?,Charity,Cliff,Daisy,Joy,Rob
+300781,4,0,Charity shamed Will. Rob helped Will. Who made Will feel ashamed?,Charity,Daisy,Joy,Cliff,Rob
+319130,0,0,Charity is waging war. Rob is expressing resolve. Cliff is failing to make a choice. Which of them is most likely feeling nationalism?,Charity,Joy,Rob,Cliff,Daisy
+336489,1,2,Charity was beheaded by Joy. Rob argued Joy. Who did something affecting Joy?,Joy,Charity,Rob,Cliff,Daisy
+259952,2,2,"Cherry needs shirts, lamp-fluorescent, and spareribs. She already has spareribs and lamp-fluorescent. Where should she go?",lawn and garden store,hardware store,clothing store,bait and tackle shop,appliance store
+159129,3,3,Which of the following is 7 centuries after 6:01 p.m. on the fourth of April 1968?,"6:01 p.m. on April 4, 2038","6:08 p.m. on April 4, 1968","6:01 p.m. on November 4, 1968","6:01 p.m. on April 4, 2668","6:01 p.m. on September 4, 1967"
+328527,1,1,Which of the following is typically slowest?,personal watercraft,elk,hot-air balloon,F-16 fighting falcon,Formula 1 race car
+159053,4,4,"Which of the following is 6 months after 9:38 p.m. on January 8, 1956?","9:38 p.m. on January 14, 1956","9:38 p.m. on January 8, 1356","9:32 p.m. on January 8, 1956","9:38 p.m. on January 8, 1896","9:38 p.m. on July 8, 1956"
+290206,0,2,______ typically last tens of minutes.,events in which food or drink is served,attendings university,car washings,July 22nds,September 24ths
+263535,1,3,Duke bet Ginger that no taco is an edible item. Ginger is a drum player. Duke is a real estate agent. Which of them won the bet?,drug dealer,real estate agent,singer,drummer,Professional cook
+263561,0,0,Ginger bet Duke that no duck is ham. Ginger is a baker. Duke is a schoolteacher. Which of them won the bet?,baker,politician,school teacher,retail sales clerk,lead guitarist
+260028,4,4,"Cherry needs dry vermouth, packaging tape, and bait. She already has packaging tape and bait. Where should she go?",art supply store,cheese shop,appliance store,grocery store,liquor store
+258927,3,3,"Cherry needs running shoes, closed refrigerators, and cable boxes. She already has cable boxes and closed refrigerators. Where should she go?",farmer's market,art supply store,furniture store,shoe store,appliance store
+301327,1,1,Daisy helped Will. Charity insulted Will. Who made Will feel happy?,Rob,Daisy,Charity,Cliff,Joy
+320857,2,3,"In Green Town, every office supply shop is mint green, every liquor store is carmine, and every bait and tackle shop is yellowish orange. Jade needs brandy. What color store could she get it at?",yellow ocher,green,light mint green,carmine,yellow
+294713,0,0,April missed a call at 2 p.m.. She returned it 1 hour later. When did she return the call?,3 p.m.,8 p.m.,8 a.m.,3 a.m.,6 p.m.
+262159,1,2,"In Dill town, you can only buy grains at Rosemary's Store, and you can only buy fruit at Cherry's Store. In a strange coincidence, any time Basil is at Rosemary's Store, Lily is at Carrot's Store, and any time he is at Cherry's Store, she is at Rosemary's Store. Basil is buying African oil palm fruits. Where is Lily?",Cherry's Store,Carrot's Store,Rosemary's Store,Rose's Store,Pepper's Store
+335966,2,2,"In Strange Town, you're only allowed to play a team sport in the forest, you're only allowed to attend entertainment events in the graveyard, and you're only allowed to engage in politics in the shipyard. Charity is using a badminton birdie in playing badminton. Where is Charity?",the theater district,the forest,the physical universe,the campground,the shipyard
+320187,0,0,Rob is jumping over something. Joy is discharging an obligation. Daisy is grimacing. Which of them is most likely feeling disappointment?,Daisy,Cliff,Joy,Rob,Charity
+329331,0,0,Pick the one which is typically fastest.,dump truck,parked car,golf cart,tractor,cruise ship
+325173,2,3,"In U.S. spring, Daisy visits the graveyard every day. In U.S. summer, Daisy visits the theater district every day. Where will Daisy go on April 17?",the park,the campground,the theater district,the graveyard,the town square
+328902,0,0,Which of these isn't usually faster than any of the others?,cockroach,golf cart,hot-air balloon,personal watercraft,B-52 bomber
+189445,4,2,Which of these things is typically the tiniest?,sandbox,built-in stove,heart,grave,china cabinet
+296999,2,2,"Only males who like grapefruit are allowed on the soccer team. Only females who like plums are allowed on the basketball team. Daisy's brother, Billie, likes all pale pinkish buff fruits. Which team could Billie join?",the hockey team,the rugby team,the soccer team,the basketball team,the baseball team
+189576,1,2,Which of the following is usually tinier than the others?,cookie jar,notebook,beer can,desk,pitcher
+262222,3,2,"In Dill town, you can only buy office products at Rose's Store, and you can only buy herbs at Rosemary's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Cherry's Store, and any time he is at Rosemary's Store, she is at Rose's Store. Basil is buying Tennessee purple coneflowers. Where is Lily?",Pepper's Store,Rosemary's Store,Rose's Store,Cherry's Store,Carrot's Store
+214863,1,1,"Casey follows the vegetarian diet. When she came to dinner, she didn't eat ______?",kale,eagle meat,turnip green,cherry pie,potato
+264456,1,1,Bear is a human. How many ribs does he have?,5,24,7,2,6
+289445,0,4,What typically lasts a few seconds?,May twelfth,August seventh,October 25th,October third,applause
+264191,4,4,Ginger bet Duke that no canoeing is a blood vessel. Ginger is a chemist. Duke is a priest. Which of them won the bet?,astronomer,Prime Minister,priest,stockbroker,chemist
+295867,4,4,April missed a call at 9 a.m.. She returned it 12 hours later. When did she return the call?,6 a.m.,7 a.m.,1 a.m.,9 a.m.,9 p.m.
+294611,3,3,April missed a call at 1 a.m.. She returned it 2 hours later. When did she return the call?,11 p.m.,6 a.m.,9 a.m.,3 a.m.,6 p.m.
+260115,1,1,"Cherry needs bananas, refrigerator bloodbanks, and staple removers. She already has staple removers and bananas. Where should she go?",drugstore,appliance store,pet store,bookstore,fruits and vegetables market
+325359,3,0,"In U.S. spring, Rob visits the graveyard every day. In U.S. winter, Rob visits the shipyard every day. Where will Rob go on March 10?",the graveyard,the botanical garden,the theater district,the shipyard,the town square
+294736,0,2,April missed a call at 4 p.m.. She returned it 12 hours later. When did she return the call?,2 a.m.,noon,4 a.m.,8 p.m.,5 a.m.
+319840,2,3,Rob is designing. Charity is sneering. Daisy is flamenco dancing. Which of them is most likely feeling passion?,Cliff,Rob,Charity,Daisy,Joy
+260713,1,0,"In Dill town, you can only buy blooms at Pepper's Store, and you can only buy flesh at Cherry's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Carrot's Store, and any time he is at Cherry's Store, she is at Pepper's Store. Basil is buying fried chicken. Where is Lily?",Pepper's Store,Carrot's Store,Rose's Store,Cherry's Store,Rosemary's Store
+263400,4,4,Duke bet Ginger that no taco is an Andean goose. Ginger is a hydrocarbon production employee. Duke is a banker. Which of them won the bet?,kindergarten teacher,babysiter,fast-food cook,hydrocarbon production employee,banker
+294421,1,1,April missed a call at 12 a.m.. She returned it 9 hours later. When did she return the call?,1 a.m.,9 a.m.,7 p.m.,3 p.m.,10 p.m.
+313286,3,3,Charity mocked Cliff. What was the action?,Cliff,excoriating,Charity,mocking,repudiating
+335976,4,4,"In Strange Town, you're only allowed to play cards in the graveyard, you're only allowed to play musical instruments in the campground, and you're only allowed to play a team sport in the park. Melody is Instrument Playing Fn quad tom drum. Where is Melody?",the park,the theater district,the graveyard,the financial district,the campground
+264079,2,2,Ginger bet Duke that no macrophthalmus crab is an Orinoco goose. Ginger is a pipe fitter. Duke is a doorman. Which of them won the bet?,batter,carpenter,plumber,doorman,astronomer
+294568,3,3,April missed a call at 8 p.m.. She returned it 6 hours later. When did she return the call?,3 a.m.,4 p.m.,8 p.m.,2 a.m.,5 p.m.
+335736,1,3,"In Strange Town, you're only allowed to play musical instruments in the botanical garden, you're only allowed to attend entertainment events in the graveyard, and you're only allowed to play a team sport in the theater district. Charity is playing of yachting sports event. Where is Charity?",the forest,the graveyard,the botanical garden,the theater district,the park
+294692,2,4,April missed a call at 3 p.m.. She returned it 8 hours later. When did she return the call?,7 a.m.,3 a.m.,10 p.m.,7 p.m.,11 p.m.
+320652,1,1,Cliff is gagging. Rob is looking longingly. Charity is dancing. Which of them is most likely feeling enjoyment?,Cliff,Charity,Rob,Joy,Daisy
+325834,3,3,"In U.S. winter, Rob visits the campground every day. In U.S. spring, Rob visits the theater district every day. Where will Rob go on December 10?",the theater district,the financial district,the shipyard,the campground,the park
+325015,0,4,"In U.S. autumn, Charity visits the town square every day. In U.S. winter, Charity visits the theater district every day. Where will Charity go on September 8?",the theater district,the graveyard,the shipyard,the forest,the town square
+294522,0,0,April missed a call at 3 p.m.. She returned it 2 hours later. When did she return the call?,5 p.m.,10 a.m.,12 a.m.,1 p.m.,11 a.m.
+296012,0,0,April missed a call at 3 p.m.. She returned it 4 hours later. When did she return the call?,7 p.m.,1 p.m.,10 a.m.,8 a.m.,5 a.m.
+324631,3,3,"In U.S. winter, Joy visits the shipyard every day. In U.S. spring, Joy visits the park every day. Where will Joy go on April 22?",the shipyard,the financial district,the theater district,the park,the campground
+189915,3,3,Pick the one which isn't usually smaller than any of the others.,washing machine,clothes dryer,human,bottom mount refrigerator,bookcase
+263911,0,0,Ginger bet Duke that no cloudy area is a Strawberry crab. Ginger is a farm worker. Duke is a valuator. Which of them won the bet?,farm worker,lifeguard,appraiser,pediatrician,librarian
+294989,2,2,April missed a call at 3 a.m.. She returned it 10 hours later. When did she return the call?,2 p.m.,3 a.m.,1 p.m.,6 a.m.,1 a.m.
+294701,0,2,April missed a call at 10 p.m.. She returned it 8 hours later. When did she return the call?,3 a.m.,7 p.m.,6 a.m.,6 p.m.,noon
+319296,3,3,Rob is failing to decide. Charity is tapping. Rob is looking confused. Which of them is most likely feeling cheerfulness?,Joy,Daisy,Cliff,Charity,Rob
+319710,4,4,Cliff is rooting. Daisy is rooting. Joy is cursing. Which of them is most likely feeling hostility?,Rob,Charity,Cliff,Daisy,Joy
+295814,1,2,April missed a call at 9 a.m.. She returned it 7 hours later. When did she return the call?,6 p.m.,2 p.m.,4 p.m.,8 p.m.,11 a.m.
+295625,4,4,April missed a call at 1 a.m.. She returned it 6 hours later. When did she return the call?,2 a.m.,4 p.m.,1 a.m.,5 p.m.,7 a.m.
+329642,4,4,Pick the thing which is typically faster than all the others.,riding mower,golf cart,tractor,cruise ship,raven
+261859,0,0,"In Dill town, you can only buy grains at Cherry's Store, and you can only buy herbs at Pepper's Store. In a strange coincidence, any time Basil is at Cherry's Store, Lily is at Pepper's Store, and any time he is at Pepper's Store, she is at Carrot's Store. Basil is buying grains. Where is Lily?",Pepper's Store,Rose's Store,Carrot's Store,Cherry's Store,Rosemary's Store
+300607,4,4,Joy shamed Will. Rob rescued someone Will. Who made Will feel relieved?,Joy,Charity,Daisy,Cliff,Rob
+215132,2,2,Calvin only eats what is allowed by the vegetarian diet program. Which of these can he not eat or drink?,curd,poisonous mushroom,prosciutto,molecule of carbohydrate,cream pie
+300681,0,0,Daisy lampooned Will. Rob commended Will. Who made Will feel embarrassed?,Daisy,Joy,Cliff,Rob,Charity
+189588,1,1,Which of these is typically largest?,sand particle,petri dish,whisker,pill,grain of rice
+329483,4,4,Which of these is usually the fastest?,parked car,tractor,Segway,cruise ship,tank
+319705,4,4,Daisy is expressing empathy. Charity is religious activity. Cliff is bowing. Which of them is most likely feeling pride?,Rob,Joy,Daisy,Charity,Cliff
+263432,0,4,Ginger bet Duke that no lake is a cave. Ginger is a doorman. Duke is a psychiatrist. Which of them won the bet?,psychiatrist,mover,cosmetic surgeon,Professional cook,doorman
+295920,3,3,April missed a call at 3 p.m.. She returned it 4 hours later. When did she return the call?,7 a.m.,2 a.m.,6 p.m.,7 p.m.,12 a.m.
+259977,1,1,"Cherry needs lemons, bucks, and home fire alarms. She already has home fire alarms and lemons. Where should she go?",clothing store,shoe store,bicycle shop,farmer's market,furniture store
+320458,0,0,Cliff is presenting with a neutral facial expression. Joy is expressing a sanction. Daisy is avoiding verbalizing. Which of them is most likely feeling resolve?,Cliff,Charity,Joy,Rob,Daisy
+159042,2,2,"Which of the following is 6 full years after 6:30 a.m. on January 22, 1901?","6:30 a.m. on January 22, 1301","6:30 a.m. on January 22, 2501","6:30 a.m. on January 22, 1907","6:30 a.m. on July 22, 1900","0:30 a.m. on January 22, 1901"
+258834,3,3,"Cherry needs hacky sacks, electrical cables, and galoshes. She already has galoshes and electrical cables. Where should she go?",farmer's market,drugstore,liquor store,sporting goods store,clothing store
+325244,2,1,"In U.S. winter, Cliff visits the shipyard every day. In U.S. spring, Cliff visits the theater district every day. Where will Cliff go on January 10?",the town square,the shipyard,the theater district,the forest,the graveyard
+189829,3,1,Which of the following isn't usually bigger than any of the others?,briefcase,house cat,grave,wine cask,trash can
+189919,4,4,Pick the thing which isn't usually smaller than any of the others.,operating table,zebra,coffin,cow,galley
+264157,1,1,Ginger bet Duke that no duck is a ghost crab. Ginger is a sitter. Duke is a baker. Which of them won the bet?,pitcher,babysiter,U.S. Navy seal,prosecutor,baker
+259421,1,1,"Cherry needs soup, shears, and orchids. She already has soup and shears. Where should she go?",bait and tackle shop,flower shop,office supply store,drugstore,farmer's market
+294552,3,3,April missed a call at 3 p.m.. She returned it 3 hours later. When did she return the call?,9 p.m.,2 p.m.,2 a.m.,6 p.m.,11 a.m.
+300906,4,4,Rob insulted Will. Daisy endorsed Will. Who made Will feel happy?,Charity,Cliff,Rob,Joy,Daisy
+248145,2,2,Yuhan asked Rashed how long clapping in which a person plays a doer role takes. What did he tell her?,between 1 and 52 weeks,between 1 and 80 minutes,a few seconds,between 0.5 and 3 hours,1 century
+319747,2,2,Daisy is making a victory gesture. Rob is jazz dancing. Daisy is expressing being trapped. Which of them is most likely feeling enjoyment?,Joy,Cliff,Rob,Daisy,Charity
+189864,1,1,Which of these things isn't usually smaller than any of the others?,workbench,glassblowing workshop,coffin,sandbox,side-by-side refrigerator-freezer
+267244,0,0,Bandit is a sting ray. How many bellies does he have?,1,8,6,5,3
+325369,0,0,"In U.S. spring, Rob visits the forest every day. In U.S. autumn, Rob visits the campground every day. Where will Rob go on September 4?",the campground,the town square,the theater district,the forest,the financial district
+319601,1,1,Charity is sneering. Rob is looking touched. Daisy is expressing a relief. Which of them is most likely feeling scorn?,Rob,Charity,Cliff,Joy,Daisy
+214361,0,0,"Casey adheres to the Halal diet. When she came to dinner, she didn't eat ______?",turkey club,pie slice,snow cone,doughnut,vegan Mozzarella cheese
+294664,3,3,April missed a call at 10 a.m.. She returned it 7 hours later. When did she return the call?,11 a.m.,11 p.m.,noon,5 p.m.,6 p.m.
+214151,2,0,The consuming of ______ is forbidden by a gluten free diet.,Sol,ground beef,Cornish hen,serrano peppers,pork bellies
+319685,4,4,Rob is expressing hate. Joy is biting one’s fingernails. Charity is flirting. Which of them is most likely feeling attraction?,Cliff,Daisy,Joy,Rob,Charity
+300925,2,2,Rob lauded Will. Charity denigrated Will. Who made Will feel happy?,Daisy,Charity,Rob,Joy,Cliff
+319584,1,1,Rob is designing. Rob is expressing a preoccupation. Joy is hanging one’s head. Which of them is most likely feeling disappointment?,Daisy,Joy,Rob,Charity,Cliff
+260338,2,2,"In Dill town, you can only buy cereal grains at Pepper's Store, and you can only buy fruit at Carrot's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Rosemary's Store, and any time he is at Carrot's Store, she is at Cherry's Store. Basil is buying grain of rice. Where is Lily?",Carrot's Store,Pepper's Store,Rosemary's Store,Cherry's Store,Rose's Store
+264043,1,1,Ginger bet Duke that no roller-skating is a ghost crab. Ginger is a fast-food cook. Duke is a soldier. Which of them won the bet?,Prime Minister,fast-food cook,retail sales clerk,soldier,contract killer
+335932,3,2,"In Strange Town, you're only allowed to engage in politics in the shipyard, you're only allowed to play musical instruments in the botanical garden, and you're only allowed to play cards in the theater district. Charity is playing faro. Where is Charity?",the shipyard,the graveyard,the theater district,the botanical garden,the financial district
+320981,2,2,"In Blue Town, every lawn and garden shop is bright rose, every fruits and vegetables market is reddish brown, and every appliance store is carmine. Hazel needs cucumber. What color store could she get it at?",light orchid rose,yellow,light reddish brown,green,carmine
+182417,3,1,"Which of the following is 6 hours after 11:50 a.m. on March 6, 1811?","5:50 p.m. on March 6, 1817","5:50 p.m. on March 6, 1811","11:50 a.m. on September 6, 1811","11:50 a.m. on March 12, 1811","11:50 a.m. on February 28, 1805"
+262805,0,0,"In Dill town, you can only buy cereal at Pepper's Store, and you can only buy office products at Cherry's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Rose's Store, and any time he is at Cherry's Store, she is at Pepper's Store. Basil is buying styli. Where is Lily?",Pepper's Store,Rose's Store,Cherry's Store,Carrot's Store,Rosemary's Store
+300418,0,4,Cliff chided Will. Daisy seconded Will. Who made Will feel unhappy?,Daisy,Joy,Charity,Rob,Cliff
+328824,2,2,Which of the following would be the slowest?,B-52 bomber,Porsche 911 Series,scaly anteater,Segway,F-16 fighting falcon
+313441,2,2,Daisy toasted Joy. Who performed the action?,toasting,Joy,Daisy,Charity,Cliff
+264124,4,4,Ginger bet Duke that no industrialized country is an auto. Ginger is a programmer. Duke is a U.S. Navy seal. Which of them won the bet?,drummer,stockbroker,mathematician,U.S. Navy seal,computer programmer
+294493,1,1,April missed a call at 6 p.m.. She returned it 4 hours later. When did she return the call?,11 p.m.,10 p.m.,8 a.m.,9 a.m.,4 a.m.
+296990,1,1,"Only females who like pineapples are allowed on the rugby team. Only males who like tamarillos are allowed on the basketball team. Daisy's husband, Billie, likes all red fruits. Which team could Billie join?",the rugby team,the basketball team,the baseball team,the hockey team,the soccer team
+320534,1,1,Charity is expressing a misgiving. Joy is acting touched. Daisy is proffering. Which of them is most likely feeling generous-emotion?,Charity,Daisy,Rob,Cliff,Joy
+319355,1,1,Joy is listening. Rob is remembering. Cliff is looking embarrassed. Which of them is most likely feeling homesickness?,Daisy,Rob,Cliff,Charity,Joy
+194227,2,1,The word “grasshopper” has ______ letters?,8,11,6,10,5
+161151,0,3,"Which of the following is 4 weeks after 6:30 a.m. on January 22, 1901?","6:30 a.m. on January 26, 1901","6:26 a.m. on January 22, 1901","6:30 a.m. on January 22, 1905","6:30 a.m. on February 19, 1901","6:30 a.m. on January 22, 2301"
+248028,2,2,Hannah asked Ken how long opens of a door takes. What did he tell her?,6 months,between 1 and 10 years,a few seconds,1 week,between 1 and 52 weeks
+189752,1,1,Pick the thing which is typically largest.,wine glass,fox,drinking bottle,coffee mug,duck
+196997,4,4,You write the word “tunnel” with ______ letters.,9,8,10,5,6
+143928,4,1,9 a.m. always follows ______.,Tuesday,8 a.m.,1 a.m.,5 a.m.,1 p.m.
+289667,2,2,What typically lasts a few minutes?,fifteen year loan,September 25th,telling jokes,Minuteman III ICBM stage 1 flight,October fifth
+248084,2,2,Mengyu asked Ken how long measles infections takes. What did he tell her?,about a day,6 minutes,between 4 and 9 days,30 years,between 5 and 10 minutes
+324749,4,4,"In U.S. spring, Joy visits the town square every day. In U.S. summer, Joy visits the park every day. Where will Joy go on August 21?",the theater district,the botanical garden,the town square,the graveyard,the park
+319157,1,1,Joy is looking confused. Cliff is blushing. Daisy is expressing admiration. Which of them is most likely feeling diffidence?,Daisy,Cliff,Joy,Charity,Rob
+300579,4,4,Joy consoled Will. Daisy incriminated Will. Who made Will feel grateful?,Cliff,Rob,Charity,Daisy,Joy
+295635,0,0,April missed a call at 7 a.m.. She returned it 3 hours later. When did she return the call?,10 a.m.,10 p.m.,11 a.m.,8 a.m.,7 a.m.
+294841,2,2,April missed a call at 6 a.m.. She returned it 1 hour later. When did she return the call?,12 a.m.,10 p.m.,7 a.m.,6 a.m.,10 a.m.
+320086,0,0,Joy is opening champagne. Charity is acting touched. Cliff is shouting. Which of them is most likely feeling celebratory feeling?,Joy,Rob,Charity,Cliff,Daisy
+295832,1,1,April missed a call at noon. She returned it 12 hours later. When did she return the call?,noon,12 a.m.,5 a.m.,6 a.m.,3 a.m.
+238034,3,1,What are nightstands small compared to?,skunk,airplane,Pekingese,DNA molecule,apple
+296246,1,1,April missed a call at 6 a.m.. She returned it 6 hours later. When did she return the call?,3 p.m.,noon,6 a.m.,8 a.m.,5 a.m.
+300784,2,2,Joy derided Will. Cliff rescued Will. Who made Will feel happy?,Charity,Rob,Cliff,Joy,Daisy
+320213,2,2,Charity is expressing jealousy. Daisy is acting violently. Rob is jumping over something. Which of them is most likely feeling confidence?,Daisy,Charity,Rob,Joy,Cliff
+323532,3,3,"If a Studebaker automobile just passed its inspection, then Studebaker has no requirements involving its?",ashtray,CD player,sun roof,exhaust system,DVD player
+297068,2,2,"Only females who like blueberries are allowed on the soccer team. Only males who like Gala apples are allowed on the rugby team. Daisy's grandmother, Billie, likes all blue fruits. Which team could Billie join?",the baseball team,the hockey team,the soccer team,the rugby team,the basketball team
+324909,1,2,"In U.S. summer, Cliff visits the campground every day. In U.S. autumn, Cliff visits the forest every day. Where will Cliff go on November 3?",the graveyard,the campground,the forest,the theater district,the shipyard
+263957,2,2,"On day number 22 in February 2077, a person born on August 8, 2000 would most likely be a ______.",not yet born,twentysomething,middle aged to old person,thirtysomething,fiftysomething
+262644,1,1,"In Dill town, you can only buy flesh at Rose's Store, and you can only buy fruit at Carrot's Store. In a strange coincidence, any time Basil is at Rose's Store, Lily is at Rosemary's Store, and any time he is at Carrot's Store, she is at Rose's Store. Basil is buying goat meat. Where is Lily?",Carrot's Store,Rosemary's Store,Cherry's Store,Pepper's Store,Rose's Store
+259941,0,0,"Cherry needs file folders, pepper, and spare ribs. She already has pepper and spare ribs. Where should she go?",office supply store,butcher shop,fruits and vegetables market,electronics store,liquor store
+258849,3,3,"Cherry needs boots, whisky, and pumps. She already has boots and whisky. Where should she go?",hardware store,appliance store,liquor store,shoe store,hair salon
+320869,4,4,"In Red Town, every flower shop is bright blue green, every office supply store is mustard, and every butcher shop is dark reddish purple. Ebony needs a writing board. What color store could she get it at?",slate purple,yellow,transparent chromium oxide,orange,mustard
+300603,2,2,Daisy maligned Will. Cliff succored Will. Who made Will feel grateful?,Charity,Rob,Cliff,Joy,Daisy
+260126,3,3,"Cherry needs cooking range slide in, electric mixers, and gardening shears. She already has electric mixers and cooking range slide in. Where should she go?",furniture store,farmer's market,cheese shop,lawn and garden store,bait and tackle shop
+336246,3,3,"In Strange Town, you're only allowed to play board games in the town square, you're only allowed to play musical instruments in the graveyard, and you're only allowed to attend entertainment events in the shipyard. Joy is using a drumstick in playing drum. Where is Joy?",the shipyard,the town square,the campground,the graveyard,the park
+263484,3,3,Duke bet Ginger that no industry is a Dungeness crab. Ginger is a priest. Duke is a migrant farm worker. Which of them won the bet?,magician,psychiatrist,assistant professor,migrant farm worker,priest
+159162,0,4,"Which of the following is 3 minutes after 11:09 p.m. on September 7, 1954?","11:09 p.m. on September 4, 1954","11:09 p.m. on September 7, 1984","11:06 p.m. on September 7, 1954","11:09 p.m. on September 7, 1654","11:12 p.m. on September 7, 1954"
+319917,3,2,"In Yellow Town, every toy store is moderate orange, every cheese shop is strong yellow, and every lawn and garden store is plum. Amythest needs a garden trowel. What color store could she get it at?",reddish yellow,red thing,plum purple,light chrome yellow,brown
+329295,4,3,Pick the thing which isn't usually slower than any of the others.,book,parked car,worm,riding mower,bible
+143934,1,1,Which of these comes right before 11 p.m.?,3 a.m.,10 p.m.,afternoon,August,12 a.m.
+164748,1,2,"Which of the following is 1 minute after February 12, 1809?","February 12, 1819","February 12, 1810","February 13, 1809","February 11, 1809","March 12, 1809"
+295930,2,2,April missed a call at 1 a.m.. She returned it 1 hour later. When did she return the call?,8 a.m.,6 p.m.,2 a.m.,10 p.m.,4 p.m.
+320176,4,4,Rob is abandoning. Joy is fidgeting. Rob is expressing joy. Which of them is most likely feeling boredom?,Daisy,Charity,Cliff,Rob,Joy
+329038,0,0,"Of these things, pick the one which is typically the slowest.",go cart,bullet train,hot-air balloon,B-52 bomber,Formula 1 race car
+259622,1,3,"Cherry needs succulents, pumpernickel, and alcoholic beverages. She already has alcoholic beverages and pumpernickel. Where should she go?",cheese shop,lawn and garden store,bicycle shop,flower shop,sporting goods store
+158890,1,1,Which of the following is 1 decade after 11:09 p.m. on day number 7 in September 1954?,"11:09 p.m. on September 8, 1954","11:09 p.m. on September 7, 1964","11:09 p.m. on September 7, 1953","11:09 p.m. on September 7, 1944","10:09 p.m. on September 7, 1954"
+295870,0,0,April missed a call at 10 AM. She returned it 5 hours later. When did she return the call?,3 p.m.,6 p.m.,6 a.m.,2 p.m.,8 a.m.
+320262,3,1,Daisy is complimenting. Charity is jerking. Cliff is holding hands. Which of them is most likely feeling fright?,Cliff,Charity,Rob,Daisy,Joy
+241128,2,2,An Anatolian Shepherd Dog is smaller than ______.,an accordion,a golf ball,a detached house,a saxophone,a Chihuahua
+269285,2,2,Bandit is a bear. How many heads does he have?,6,9,1,4,0
+319184,1,1,Daisy is spitting out. Joy is speaking quietly. Cliff is holding still. Which of them is most likely feeling disrespectful?,Rob,Daisy,Cliff,Joy,Charity
+319134,2,2,Charity is dancing by humans. Rob is reacting with sadness. Daisy is expressing jealousy. Which of them is most likely feeling amusement?,Rob,Daisy,Charity,Cliff,Joy
+294328,4,2,April received a letter in February. She answered it 4 months later. When did she answer the letter?,October,April,June,July,August
+263849,2,4,Duke bet Ginger that no wombat is a human-scale object. Ginger is a cosmetic surgeon. Duke is a comedian. Which of them won the bet?,lifeguard,batter,comedian,retail sales clerk,cosmetic surgeon
+260217,3,3,"Cherry needs Irish whiskey, oranges, and men's boots. She already has Irish whiskey and oranges. Where should she go?",butcher shop,furniture store,cheese shop,shoe store,appliance store
+297151,4,0,"Only females who like ripe mangos are allowed on the rugby team. Only males who like limes are allowed on the basketball team. Daisy's daughter-in-law, Billie, likes all dull buff fruits. Which team could Billie join?",the rugby team,the soccer team,the baseball team,the hockey team,the basketball team
+319956,1,4,"In Red Town, every bookstore is mauve, every pet store is English vermillion, and every office supply store is chartreuse yellow. Hazel needs a rubber eraser. What color store could she get it at?",orange,mauve,cadmium carmine,red thing,strontium yellow
+320583,0,1,Joy is waging war. Charity is Irish step dancing. Daisy is expressing impatience. Which of them is most likely feeling entertainment?,Joy,Charity,Rob,Daisy,Cliff
+320055,3,3,"In Purple Town, every cheese shop is light vermillion, every bakery is violet black, and every drugstore is bright yellow. Amber needs a cake. What color store could she get it at?",blue,yellowish orange,light vermilion,dull violet black,green
+248143,3,3,Hannah asked Darian how long uses of garbage bags as containers used in collecting garbage takes. What did he tell her?,between 2 and 4 hours,1 second,between 1 and 80 minutes,a few hours,between 1 and 52 weeks
+295641,2,2,April missed a call at 11 a.m.. She returned it 12 hours later. When did she return the call?,7 p.m.,2 a.m.,11 p.m.,7 a.m.,8 a.m.
+159700,2,2,Which of the following is 4 weeks after 3:17 p.m. on day number 20 in July 1969?,"3:17 p.m. on July 20, 1965","3:17 p.m. on July 20, 2009","3:17 p.m. on August 17, 1969","3:17 p.m. on March 20, 1969","7:17 p.m. on July 20, 1973"
+320267,2,4,Daisy is looking stunned. Charity is folk dancing. Cliff is taking risks. Which of them is most likely feeling fun?,Rob,Daisy,Cliff,Joy,Charity
+336206,1,3,"In Strange Town, you're only allowed to attend entertainment events in the campground, you're only allowed to play musical instruments in the graveyard, and you're only allowed to play board games in the town square. Joy is playing Chinese checkers. Where is Joy?",the campground,the graveyard,the park,the town square,the botanical garden
+320563,1,1,Cliff is expressing impatience. Rob is expressing jealousy. Charity is nictitating. Which of them is most likely feeling willingness?,Daisy,Charity,Joy,Rob,Cliff
+290432,4,0,______ typically last between 5 and 10 minutes.,changings a motor vehicle's oil,September fourths,carolings,May 27ths,kickings
+190102,3,3,"Of these things, pick the one which is usually the biggest.",cupboard,nightstand,jackhammer,Siberian tiger,bathtub
+294473,2,2,April missed a call at 6 a.m.. She returned it 5 hours later. When did she return the call?,7 a.m.,6 p.m.,11 a.m.,1 a.m.,10 p.m.
+260140,1,1,"Cherry needs cowboy boots, sandals design for use by young girls, and cooking range slide in. She already has cowboy boots and sandals design for use by young girls. Where should she go?",office supply store,appliance store,liquor store,bicycle shop,toy store
+319622,1,1,Daisy is waving. Rob is looking baffled. Rob is braining. Which of them is most likely feeling friendliness?,Charity,Daisy,Joy,Rob,Cliff
+320774,0,0,Charity is disregarding conventions. Joy is raising arms in victory. Rob is gritting one’s teeth. Which of them is most likely feeling celebratory feeling?,Joy,Rob,Cliff,Daisy,Charity
+289688,1,0,What typically lasts a few minutes?,getting dressed,removing an item of clothing,mowing,changing a motor vehicle's oil,automobile repair
+296146,3,3,April missed a call at 12 a.m.. She returned it 1 hour later. When did she return the call?,11 p.m.,3 p.m.,10 a.m.,1 a.m.,9 p.m.
+294126,2,3,April received a letter on Friday. She answered it 4 days later. On which day did she answer the letter?,Wednesday,Thursday,Saturday,Tuesday,Friday
+263750,3,3,Duke bet Ginger that no row house is an industry. Ginger is a fisherman. Duke is a cosmetic surgeon. Which of them won the bet?,bartender,fisherman,bank teller,cosmetic surgeon,farm worker
+300461,1,1,Joy maligned Will. Cliff glorified Will. Who made Will feel proud?,Joy,Cliff,Daisy,Charity,Rob
+300903,1,1,Joy lampooned Will. Cliff helped Will. Who made Will feel grateful?,Rob,Cliff,Charity,Daisy,Joy
+324792,0,0,"In U.S. spring, Cliff visits the theater district every day. In U.S. autumn, Cliff visits the forest every day. Where will Cliff go on March 17?",the theater district,the financial district,the forest,the shipyard,the campground
+320456,2,2,Charity is expressing hope. Daisy is relaxing a muscle. Charity is trying to acquire. Which of them is most likely feeling relaxation?,Joy,Charity,Daisy,Cliff,Rob
+263286,3,3,Duke bet Ginger that no not windy location is a slightly breezy location. Ginger is a secretary. Duke is a programmer. Which of them won the bet?,cowpoke,fast-food cook,secretary,computer programmer,cowgirl
+189504,2,4,"Of these things, pick the one which is typically the biggest.",house,space shuttle,store that is a facility of some grocery store,airplane,factory building
+189773,2,2,Which of the following is typically largest?,refrigerated display case,sandbox,dance studio,examining table,coffin
+328452,2,2,Pick the one which isn't usually faster than any of the others.,F-16 fighting falcon,bullet,badminton birdie,Boeing 747,B-52 bomber
+259467,2,2,"Cherry needs household trash compactors, cowboy boots, and sandals. She already has household trash compactors and cowboy boots. Where should she go?",electronics store,clothing store,shoe store,drugstore,fruits and vegetables market
+297193,2,2,"Only females who like cranberries are allowed on the hockey team. Only males who like red delicious apples are allowed on the baseball team. Daisy's aunt, Billie, likes all deep rose fruits. Which team could Billie join?",the rugby team,the basketball team,the hockey team,the soccer team,the baseball team
+320487,4,4,Charity is looking embarrassed. Daisy is guarding. Charity is expressing skepticism. Which of them is most likely feeling defensiveness?,Joy,Cliff,Rob,Charity,Daisy
+268147,2,2,Lady is a ferret. How many ears does she have?,9,7,2,6,1
+262752,2,4,"In Dill town, you can only buy meat at Pepper's Store, and you can only buy fruits at Rosemary's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Pepper's Store, and any time he is at Rosemary's Store, she is at Rose's Store. Basil is buying sliced turkey. Where is Lily?",Cherry's Store,Rosemary's Store,Rose's Store,Carrot's Store,Pepper's Store
+301085,3,3,Daisy rescued someone Will. Rob snubbed Will. Who made Will feel grateful?,Charity,Joy,Rob,Daisy,Cliff
+161549,0,2,"Which of the following is 10 days after 9:38 p.m. on January 8, 1956?","9:28 p.m. on January 8, 1956","9:38 p.m. on November 8, 1956","9:38 p.m. on January 18, 1956","9:38 p.m. on January 8, 2056","9:38 p.m. on January 8, 2956"
+161926,3,3,"Which of the following is 1 day after 1:15 a.m. on June 6, 1944?","1:15 a.m. on July 6, 1944","0:15 a.m. on June 6, 1944","1:15 a.m. on June 6, 1954","1:15 a.m. on June 7, 1944","1:15 a.m. on May 6, 1944"
+297157,4,1,"Only females who like Braeburn apples are allowed on the hockey team. Only males who like jambuls are allowed on the basketball team. Daisy's pop, Billie, likes all purple fruits. Which team could Billie join?",the baseball team,the basketball team,the soccer team,the rugby team,the hockey team
+214633,1,1,No ______ are consumed by people who adhere to a Kosher diet.,meat-free hot dogs,spare ribs,potatoes,refried beans,cabernet sauvignons
+259652,4,4,"Cherry needs lawn and garden supplies, toasters, and pairs of snow skis. She already has lawn and garden supplies and pairs of snow skis. Where should she go?",fish market,sporting goods store,fruits and vegetables market,electronics store,appliance store
+263721,3,3,Ginger bet Duke that no picnic table is ready-to-eat food. Ginger is a kindergarten teacher. Duke is a manager. Which of them won the bet?,construction worker,drug dealer,Professional cook,kindergarten teacher,manager
+320733,4,3,Charity is jumping over something. Daisy is Irish step dancing. Rob is taking first steps. Which of them is most likely feeling will?,Cliff,Joy,Daisy,Rob,Charity
+189388,0,0,Which of the following isn't usually bigger than any of the others?,primate heart,baseball glove,cereal bowl,wine bottle,bowl
+335876,3,3,"In Strange Town, you're only allowed to play a musical instrument in the graveyard, you're only allowed to attend entertainment events in the campground, and you're only allowed to play a team sport in the park. Charity is playing korfball. Where is Charity?",the park,the campground,the shipyard,the physical universe,the financial district
+263525,4,4,Duke bet Ginger that no Dungeness crab is a fruit and vegetable food group. Ginger is a short order cook. Duke is a retail sales clerk. Which of them won the bet?,bank teller,cosmetic surgeon,U.S. Navy seal,short-order cook,retail sales clerk
+335734,2,2,"In Strange Town, you're only allowed to play cards in the theater district, you're only allowed to play musical instruments in the graveyard, and you're only allowed to play board games in the financial district. Joy is #$PlayingAMusicalInstrument as a hobby. Where is Joy?",the theater district,the park,the graveyard,the botanical garden,the financial district
+320522,3,3,Daisy is braining someone. Cliff is flirting. Rob is expressing humour. Which of them is most likely feeling machismo?,Rob,Joy,Daisy,Cliff,Charity
+182280,4,4,"Which of the following is 10 centuries after 11:03 p.m. on December 1, 1871?","11:13 p.m. on December 1, 1871","11:03 p.m. on November 21, 1871","9:03 a.m. on December 2, 1871","11:03 p.m. on October 1, 1872","11:03 p.m. on December 1, 2871"
+329059,4,0,"Of these things, pick the one which isn't usually faster than any of the others.",roe deer,go cart,hot-air balloon,tank,Irish Wolfhound
+263638,2,2,Ginger bet Duke that no Pie crust crab is a macaw. Ginger is a school teacher. Duke is a physician. Which of them won the bet?,doctor,computer programmer,school teacher,firefighter,secretary
+325725,3,0,"In U.S. summer, Charity visits the graveyard every day. In U.S. winter, Charity visits the forest every day. Where will Charity go on December 1?",the forest,the campground,the theater district,the graveyard,the park
+262356,1,1,"In Dill town, you can only buy office products at Cherry's Store, and you can only buy fruits at Rosemary's Store. In a strange coincidence, any time Basil is at Cherry's Store, Lily is at Carrot's Store, and any time he is at Rosemary's Store, she is at Cherry's Store. Basil is buying unripe bananas. Where is Lily?",Rosemary's Store,Cherry's Store,Pepper's Store,Rose's Store,Carrot's Store
+319388,0,0,Joy is gasping. Daisy is expressing reservation. Daisy is saluting. Which of them is most likely feeling embarrassment?,Joy,Daisy,Cliff,Rob,Charity
+214137,1,1,It's too bad Bobby served ______. Everybody at the party follows the gluten free diet.,dry-aged beef,Vienna-style lager,sweet potato,banana,bird meat
+189537,3,4,Pick the one which is usually bigger than the others.,coffin,refrigerated display case,china cabinet,pepper shaker,car
+259938,4,4,"Cherry needs art supplies, thongs, and portable TVs. She already has thongs and art supplies. Where should she go?",art supply store,sporting goods store,fruits and vegetables market,clothing store,appliance store
+182840,4,2,Which of the following is 2 decades after 9:35 a.m. on day number 6 in June 1970?,"11:35 a.m. on June 6, 1972","9:35 a.m. on June 4, 1970","9:35 a.m. on June 6, 1990","9:35 a.m. on June 6, 1950","9:35 a.m. on June 6, 2170"
+193691,3,3,You write the word “wing” with ______ letters.,8,3,11,4,9
+264020,4,4,Ginger bet Duke that no macaw is a fruits and vegetable. Ginger is a district attorney. Duke is an assistant professor. Which of them won the bet?,assistant professor,librarian,architect,psychiatrist,prosecutor
+295736,4,4,April missed a call at 5 a.m.. She returned it 8 hours later. When did she return the call?,9 a.m.,5 p.m.,2 p.m.,4 a.m.,1 p.m.
+328962,3,3,Which of these things would be the slowest?,B-52 bomber,railroad train,bullet train,hurricane,hot-air balloon
+319463,2,2,Charity is performing a dance motion. Rob is giving a reproachful look. Rob is expressing dejection. Which of them is most likely feeling joy?,Daisy,Rob,Charity,Joy,Cliff
+325252,3,3,"In U.S. winter, Charity visits the forest every day. In U.S. spring, Charity visits the campground every day. Where will Charity go on April 4?",the botanical garden,the financial district,the forest,the campground,the theater district
+297171,1,1,"Only females who like strawberries are allowed on the rugby team. Only males who like ripe mangos are allowed on the basketball team. Daisy's uncle, Billie, likes all ochre fruits. Which team could Billie join?",the rugby team,the basketball team,the hockey team,the soccer team,the baseball team
+259932,0,2,"Cherry needs dairy products, pumpernickel bread, and home fire alarms. She already has dairy products and home fire alarms. Where should she go?",grocery store,butcher shop,bakery,furniture store,bookstore
+313457,0,0,Cliff snubbed Rob. Who performed the action?,Cliff,snubbing,Charity,Rob,Joy
+319449,4,4,Rob is taking first steps. Daisy is considering. Charity is greeting. Which of them is most likely feeling hospitality?,Joy,Cliff,Daisy,Rob,Charity
+329501,1,2,"Of these things, pick the one which is typically the slowest.",B-52 bomber,go cart,Honda Accord,F-16 fighting falcon,Boeing 747
+296239,1,1,April missed a call at 8 p.m.. She returned it 11 hours later. When did she return the call?,2 p.m.,7 a.m.,3 a.m.,8 p.m.,5 p.m.
+319711,0,0,Rob is expressing despair. Joy is holding still. Charity is blowing a kiss. Which of them is most likely feeling tenderness?,Charity,Cliff,Rob,Daisy,Joy
+329013,0,0,Which of the following isn't usually faster than any of the others?,elk,personal watercraft,Boeing 747,go cart,steam locomotive
+325285,4,4,"In U.S. autumn, Cliff visits the botanical garden every day. In U.S. spring, Cliff visits the park every day. Where will Cliff go on April 12?",the town square,the botanical garden,the financial district,the shipyard,the park
+336196,3,3,"In Strange Town, you're only allowed to play a team sport in the forest, you're only allowed to play a musical instrument in the campground, and you're only allowed to play a card game in the town square. Daisy is playing the ukulele. Where is Daisy?",the town square,the botanical garden,the forest,the campground,the theater district
+182174,3,3,"Which of the following is 4 full years after 6:12 a.m. on November 9, 1880?","6:12 a.m. on July 9, 1880","6:08 a.m. on November 9, 1880","6:12 a.m. on November 5, 1876","6:12 a.m. on November 9, 1884","10:12 a.m. on November 9, 1880"
+158983,4,4,Which of the following is 8 decades after 7:32 p.m. on the first of March 1971?,"7:32 p.m. on February 21, 1963","7:32 p.m. on March 1, 2771","3:32 a.m. on March 2, 1971","7:32 p.m. on November 1, 1971","7:32 p.m. on March 1, 2051"
+336272,0,0,Charity deliberated Joy. Joy burned Charity. Who did something affecting Joy?,Charity,Cliff,Daisy,Joy,Rob
+300750,3,3,Joy denigrated Will. Rob acclaimed Will. Who made Will feel embarrassed?,Daisy,Rob,Cliff,Joy,Charity
+193376,3,0,You write the word “dad” with ______ letters.,3,5,9,4,10
+214982,4,4,Rosalyn is coming to your house for dinner. She is an adherent of the vegetarian diet program. What food or drink would she not be willing to eat?,vegetable juice,avocado,rice cake,tomato juice,ham sandwich
+262193,4,1,"In Dill town, you can only buy blossoms at Pepper's Store, and you can only buy office products at Cherry's Store. In a strange coincidence, any time Basil is at Pepper's Store, Lily is at Pepper's Store, and any time he is at Cherry's Store, she is at Rosemary's Store. Basil is buying notebooks. Where is Lily?",Cherry's Store,Rosemary's Store,Carrot's Store,Rose's Store,Pepper's Store
+319415,2,2,Rob is classical Indian dancing. Daisy is looking unconvinced. Daisy is wearing modest clothing. Which of them is most likely feeling entertainment?,Daisy,Cliff,Rob,Charity,Joy
+296116,1,1,April missed a call at 2 a.m.. She returned it 7 hours later. When did she return the call?,6 p.m.,9 a.m.,2 a.m.,3 a.m.,1 p.m.
+262510,3,3,"In Dill town, you can only buy meat at Rosemary's Store, and you can only buy cereal grains at Cherry's Store. In a strange coincidence, any time Basil is at Rosemary's Store, Lily is at Pepper's Store, and any time he is at Cherry's Store, she is at Pepper's Store. Basil is buying grilled steaks. Where is Lily?",Rosemary's Store,Carrot's Store,Rose's Store,Pepper's Store,Cherry's Store
+263329,1,1,Ginger bet Duke that no urban area is tofu. Ginger is a farmer. Duke is a travel agent. Which of them won the bet?,migrant farm worker,farmer,travel agent,academic,firefighter
+215126,3,3,Calvin is an adherent of the vegetarian diet. Which of these can he not eat or drink?,Brussels sprout,Stella Artois,brown rice,donkey meat,pilsner
+297002,2,0,"Only males who like blueberries are allowed on the baseball team. Only females who like bananas are allowed on the soccer team. Daisy's son, Billie, likes all blue fruits. Which team could Billie join?",the baseball team,the hockey team,the soccer team,the rugby team,the basketball team
+319266,1,1,Cliff is looking impressed. Charity is stomping. Joy is opening a bottle of champagne. Which of them is most likely feeling feeling of celebration?,Charity,Joy,Rob,Cliff,Daisy
+320347,3,3,Cliff is defending something against attack. Charity is looking downward. Daisy is making a plan. Which of them is most likely feeling defensiveness?,Daisy,Rob,Joy,Cliff,Charity
+320711,0,0,Joy is flamenco dancing. Charity is snuggling. Rob is expressing an undesirable feeling. Which of them is most likely feeling safety?,Charity,Joy,Daisy,Rob,Cliff
+320870,4,4,"In Green Town, every florist shop is dark plum, every farmer's market is dull bluish green, and every beauty shop is turquoise green. Tawny needs a brisket. What color store could she get it at?",orange,red,yellow,black violet,bluish green
+300995,2,2,Cliff incriminated Will. Joy aided Will. Who made Will feel grateful?,Cliff,Rob,Joy,Daisy,Charity
+296152,3,3,April missed a call at 7 a.m.. She returned it 7 hours later. When did she return the call?,9 p.m.,10 p.m.,7 p.m.,2 p.m.,6 p.m.
+301066,2,2,Rob lauded Will. Charity chastised Will. Who made Will feel happy?,Daisy,Cliff,Rob,Charity,Joy
